@@ -1,0 +1,10 @@
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\bin\Debug\AdminElectoral.exe.config
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\bin\Debug\AdminElectoral.exe
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\bin\Debug\AdminElectoral.pdb
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.csprojAssemblyReference.cache
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.Form1.resources
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.Properties.Resources.resources
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.csproj.GenerateResource.cache
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.csproj.CoreCompileInputs.cache
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.exe
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.pdb
