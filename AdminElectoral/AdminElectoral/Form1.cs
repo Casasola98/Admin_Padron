@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdminElectoral.logica;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,24 +13,26 @@ namespace AdminElectoral
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
         }
-
-        private void label2_Click(object sender, EventArgs e)
+        
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            fileSelection.ShowDialog();
+            string archivo = fileSelection.FileName;
+            XmlConverter conversor = new XmlConverter();
+            conversor.generarXML(archivo);
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            fileSelection.ShowDialog();
+            string archivo = fileSelection.FileName;
+            XmlConverter conversor = new XmlConverter();
+            conversor.generarXML(archivo);
         }
     }
 }
