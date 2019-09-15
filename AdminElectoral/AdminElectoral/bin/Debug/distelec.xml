@@ -1,0 +1,2408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pais>
+  <Provincia Id="1" Nombre="SAN JOSE">
+    <Canton Id="1" Nombre="CENTRAL">
+      <Distrito Id="1" Nombre="HOSPITAL" />
+      <Distrito Id="2" Nombre="ZAPOTE" />
+      <Distrito Id="3" Nombre="SAN FRANCISCO DE DOS RIOS" />
+      <Distrito Id="4" Nombre="URUCA" />
+      <Distrito Id="5" Nombre="MATA REDONDA" />
+      <Distrito Id="6" Nombre="PAVAS" />
+      <Distrito Id="7" Nombre="HATILLO" />
+      <Distrito Id="8" Nombre="SAN SEBASTIAN" />
+      <Distrito Id="9" Nombre="LA CAJA" />
+      <Distrito Id="10" Nombre="PASO ANCHO SUR" />
+      <Distrito Id="11" Nombre="CARMEN" />
+      <Distrito Id="12" Nombre="BARRIO MEXICO" />
+      <Distrito Id="13" Nombre="CATEDRAL" />
+      <Distrito Id="14" Nombre="CORAZON DE JESUS" />
+      <Distrito Id="15" Nombre="ARANJUEZ" />
+      <Distrito Id="16" Nombre="PITAHAYA" />
+      <Distrito Id="17" Nombre="CRISTO REY" />
+      <Distrito Id="18" Nombre="OMAR DENGO" />
+      <Distrito Id="20" Nombre="SAN BOSCO" />
+      <Distrito Id="21" Nombre="GONZALEZ VIQUEZ" />
+      <Distrito Id="22" Nombre="NACIONES UNIDAS" />
+      <Distrito Id="23" Nombre="BARRIO LUJAN" />
+      <Distrito Id="24" Nombre="PASO ANCHO NORTE" />
+      <Distrito Id="25" Nombre="SAGRADA FAMILIA" />
+      <Distrito Id="26" Nombre="RINCON GRANDE" />
+      <Distrito Id="27" Nombre="MARIA REINA" />
+      <Distrito Id="28" Nombre="VILLA ESPERANZA" />
+      <Distrito Id="29" Nombre="ROSITER CARBALLO (LAS BRISAS)" />
+      <Distrito Id="30" Nombre="C.P. CRISTO REY (SAN SEBASTIAN)" />
+      <Distrito Id="31" Nombre="LA CARPIO" />
+      <Distrito Id="32" Nombre="CORDOBA" />
+      <Distrito Id="33" Nombre="SANTA MARTA" />
+      <Distrito Id="34" Nombre="PEREGRINA" />
+      <Distrito Id="35" Nombre="PERPETUO SOCORRO" />
+      <Distrito Id="36" Nombre="HATILLO 8" />
+      <Distrito Id="37" Nombre="COLONIA 15 DE SETIEMBRE" />
+      <Distrito Id="38" Nombre="COLONIA KENNEDY" />
+      <Distrito Id="40" Nombre="C.S.M CAPEMCOL" />
+    </Canton>
+    <Canton Id="2" Nombre="ESCAZU">
+      <Distrito Id="1" Nombre="ESCAZU" />
+      <Distrito Id="2" Nombre="SAN ANTONIO" />
+      <Distrito Id="3" Nombre="SAN RAFAEL" />
+      <Distrito Id="4" Nombre="BEBEDERO O SAN FRANCISCO" />
+      <Distrito Id="5" Nombre="GUACHIPELIN (SAN GABRIEL)" />
+      <Distrito Id="6" Nombre="CARMEN (CHIVERRAL)" />
+      <Distrito Id="7" Nombre="BELO HORIZONTE NORTE" />
+      <Distrito Id="8" Nombre="H.A. MAGDALA" />
+    </Canton>
+    <Canton Id="3" Nombre="DESAMPARADOS">
+      <Distrito Id="1" Nombre="DESAMPARADOS" />
+      <Distrito Id="2" Nombre="SAN MIGUEL" />
+      <Distrito Id="3" Nombre="JERICO" />
+      <Distrito Id="4" Nombre="HIGUITO" />
+      <Distrito Id="5" Nombre="SAN JUAN DE DIOS" />
+      <Distrito Id="6" Nombre="SAN RAFAEL ARRIBA" />
+      <Distrito Id="7" Nombre="SAN RAFAEL ABAJO" />
+      <Distrito Id="8" Nombre="SAN ANTONIO" />
+      <Distrito Id="9" Nombre="FRAILES" />
+      <Distrito Id="10" Nombre="BUSTAMANTE O ALCIRA" />
+      <Distrito Id="11" Nombre="PATARRA" />
+      <Distrito Id="12" Nombre="SAN CRISTOBAL SUR" />
+      <Distrito Id="13" Nombre="SAN CRISTOBAL NORTE" />
+      <Distrito Id="14" Nombre="ROSARIO" />
+      <Distrito Id="15" Nombre="GUADARRAMA" />
+      <Distrito Id="16" Nombre="LA JOYA" />
+      <Distrito Id="17" Nombre="FATIMA DE DAMAS" />
+      <Distrito Id="18" Nombre="CALLE FALLAS" />
+      <Distrito Id="19" Nombre="GRAVILIAS" />
+      <Distrito Id="20" Nombre="PACAYA" />
+      <Distrito Id="21" Nombre="EL LLANO" />
+      <Distrito Id="22" Nombre="MANZANO (MANZANILLO)" />
+      <Distrito Id="23" Nombre="GUATUSO" />
+      <Distrito Id="24" Nombre="TRINIDAD (PARTE ESTE)" />
+      <Distrito Id="25" Nombre="CRISTO REY" />
+      <Distrito Id="26" Nombre="LOS GUIDO" />
+      <Distrito Id="27" Nombre="LAS LOMAS" />
+      <Distrito Id="28" Nombre="SAN JERONIMO" />
+      <Distrito Id="29" Nombre="VIOLETA (RINCON MORALES)" />
+      <Distrito Id="30" Nombre="SAN LORENZO" />
+      <Distrito Id="31" Nombre="VALENCIA" />
+      <Distrito Id="32" Nombre="EL PORVENIR" />
+      <Distrito Id="33" Nombre="LA CAPRI" />
+      <Distrito Id="34" Nombre="C.P. VILMA CURLING RIVERA" />
+      <Distrito Id="35" Nombre="EMPALME ARRIBA GUARIA(PARTE OESTE)" />
+      <Distrito Id="36" Nombre="H.A. OFELIA CARVAJAL DE NARANJO" />
+      <Distrito Id="37" Nombre="H.A. SAN CAYETANO" />
+      <Distrito Id="38" Nombre="LLANO BONITO" />
+      <Distrito Id="39" Nombre="CHIROGRES" />
+      <Distrito Id="40" Nombre="H.A.C.G. MANANTIAL DE VIDA SAN RAF" />
+    </Canton>
+    <Canton Id="4" Nombre="PURISCAL">
+      <Distrito Id="1" Nombre="SANTIAGO" />
+      <Distrito Id="2" Nombre="POZOS" />
+      <Distrito Id="3" Nombre="MERCEDES SUR" />
+      <Distrito Id="4" Nombre="MERCEDES NORTE" />
+      <Distrito Id="5" Nombre="BOCANA" />
+      <Distrito Id="6" Nombre="JILGUERAL" />
+      <Distrito Id="8" Nombre="TUFARES" />
+      <Distrito Id="9" Nombre="SALITRALES" />
+      <Distrito Id="11" Nombre="ALTO LA PALMA" />
+      <Distrito Id="12" Nombre="BARBACOAS (SAN ISIDRO)" />
+      <Distrito Id="13" Nombre="PIEDADES" />
+      <Distrito Id="14" Nombre="SAN JUAN" />
+      <Distrito Id="15" Nombre="GRIFO ALTO" />
+      <Distrito Id="16" Nombre="LLANO GRANDE" />
+      <Distrito Id="17" Nombre="GRIFO BAJO" />
+      <Distrito Id="18" Nombre="SAN RAFAEL ARRIBA" />
+      <Distrito Id="19" Nombre="FLORALIA" />
+      <Distrito Id="20" Nombre="CANDELARITA" />
+      <Distrito Id="21" Nombre="DESAMPARADITOS" />
+      <Distrito Id="22" Nombre="SAN ANTONIO" />
+      <Distrito Id="23" Nombre="GUARUMAL" />
+      <Distrito Id="24" Nombre="ZAPATON (SAN CARLOS)" />
+      <Distrito Id="26" Nombre="PEDERNAL O SAN PEDRO" />
+      <Distrito Id="28" Nombre="GAMALOTILLO" />
+      <Distrito Id="29" Nombre="LOS ANGELES" />
+      <Distrito Id="30" Nombre="LA GLORIA" />
+      <Distrito Id="31" Nombre="MASTATAL" />
+      <Distrito Id="32" Nombre="SANTA MARTA" />
+      <Distrito Id="34" Nombre="CARIT" />
+      <Distrito Id="35" Nombre="CORTEZAL" />
+      <Distrito Id="36" Nombre="CERBATANA" />
+      <Distrito Id="37" Nombre="SAN MARTIN" />
+      <Distrito Id="38" Nombre="CHARCON (RIO VIEJO)" />
+      <Distrito Id="40" Nombre="SAN MIGUEL" />
+      <Distrito Id="42" Nombre="BAJO BADILLA" />
+      <Distrito Id="43" Nombre="VISTA DE MAR NORTE" />
+      <Distrito Id="44" Nombre="BAJO REY" />
+      <Distrito Id="45" Nombre="H.A. CORAZON DE JESUS" />
+      <Distrito Id="46" Nombre="SANTA CECILIA" />
+    </Canton>
+    <Canton Id="5" Nombre="TARRAZU">
+      <Distrito Id="1" Nombre="SAN MARCOS" />
+      <Distrito Id="2" Nombre="SAN PEDRO" />
+      <Distrito Id="4" Nombre="SAN MARTIN" />
+      <Distrito Id="5" Nombre="SAN LORENZO" />
+      <Distrito Id="6" Nombre="GUADALUPE" />
+      <Distrito Id="7" Nombre="RODEO NORTE" />
+      <Distrito Id="8" Nombre="SAN CARLOS" />
+      <Distrito Id="9" Nombre="ESQUIPULAS" />
+      <Distrito Id="10" Nombre="SAN JERONIMO" />
+      <Distrito Id="12" Nombre="SAN MIGUEL O SALADO" />
+      <Distrito Id="13" Nombre="ZAPOTAL" />
+      <Distrito Id="14" Nombre="NAPOLES" />
+      <Distrito Id="15" Nombre="QUEBRADA ARROYO" />
+      <Distrito Id="16" Nombre="H.A. LOS SANTOS" />
+    </Canton>
+    <Canton Id="6" Nombre="ASERRI">
+      <Distrito Id="1" Nombre="ASERRI" />
+      <Distrito Id="2" Nombre="POAS" />
+      <Distrito Id="3" Nombre="SALITRILLOS" />
+      <Distrito Id="4" Nombre="JOCOTAL ABAJO" />
+      <Distrito Id="5" Nombre="TARBACA O PRAGA" />
+      <Distrito Id="6" Nombre="VUELTA DE JORCO" />
+      <Distrito Id="7" Nombre="MONTE REDONDO" />
+      <Distrito Id="8" Nombre="SAN GABRIEL" />
+      <Distrito Id="9" Nombre="LIMONAL" />
+      <Distrito Id="10" Nombre="LEGUA" />
+      <Distrito Id="11" Nombre="BAJO DE PARRITA" />
+      <Distrito Id="12" Nombre="MONTERREY" />
+      <Distrito Id="13" Nombre="LEGUA DE LOS NARANJOS" />
+      <Distrito Id="14" Nombre="URUCA" />
+      <Distrito Id="15" Nombre="EL TIGRE" />
+      <Distrito Id="16" Nombre="CEDRAL" />
+      <Distrito Id="17" Nombre="TRANQUERILLAS" />
+      <Distrito Id="18" Nombre="ALTO AGUACATE" />
+      <Distrito Id="20" Nombre="LAGUNA (BAJO BIJAGUAL)" />
+      <Distrito Id="22" Nombre="OJO DE AGUA (PARTE NOROESTE)" />
+      <Distrito Id="23" Nombre="SANTA TERESITA" />
+      <Distrito Id="24" Nombre="H.A. SAN FRANCISCO DE ASIS" />
+    </Canton>
+    <Canton Id="7" Nombre="MORA">
+      <Distrito Id="1" Nombre="COLON" />
+      <Distrito Id="2" Nombre="JARIS" />
+      <Distrito Id="3" Nombre="GUAYABO" />
+      <Distrito Id="4" Nombre="TABARCIA" />
+      <Distrito Id="5" Nombre="PIEDRAS BLANCAS" />
+      <Distrito Id="6" Nombre="MORADO" />
+      <Distrito Id="7" Nombre="PIEDRAS NEGRAS" />
+      <Distrito Id="10" Nombre="PICAGRES" />
+      <Distrito Id="11" Nombre="LLANO GRANDE" />
+      <Distrito Id="13" Nombre="CORRALAR" />
+      <Distrito Id="14" Nombre="QUITIRRISI" />
+      <Distrito Id="15" Nombre="BAJO DE LOAIZA (SAN LORENZO)" />
+      <Distrito Id="17" Nombre="RODEO" />
+      <Distrito Id="18" Nombre="BRASIL" />
+      <Distrito Id="19" Nombre="SAN BOSCO" />
+      <Distrito Id="20" Nombre="SAN RAFAEL (CEDRAL)" />
+      <Distrito Id="21" Nombre="CORROGRES (LA FILA EL CARMEN)" />
+      <Distrito Id="22" Nombre="BAJO DE BUSTAMANTE O ANGELES" />
+      <Distrito Id="23" Nombre="SAN ISIDRO DE CHUCAS (BALSILLA)" />
+      <Distrito Id="24" Nombre="BAJO DE JORCO (PARTE OESTE)" />
+    </Canton>
+    <Canton Id="8" Nombre="GOICOECHEA">
+      <Distrito Id="1" Nombre="GUADALUPE" />
+      <Distrito Id="2" Nombre="H.A. CARLOS MARIA ULLOA" />
+      <Distrito Id="3" Nombre="SAN FRANCISCO" />
+      <Distrito Id="4" Nombre="CALLE BLANCOS Y SAN GABRIEL" />
+      <Distrito Id="5" Nombre="MATA DE PLATANO O CARMEN" />
+      <Distrito Id="6" Nombre="IPIS ABAJO" />
+      <Distrito Id="7" Nombre="PURRAL" />
+      <Distrito Id="8" Nombre="RANCHO REDONDO" />
+      <Distrito Id="9" Nombre="VISTA DE MAR" />
+      <Distrito Id="10" Nombre="LOS ANGELES" />
+      <Distrito Id="11" Nombre="FACIO Y LA MORA" />
+      <Distrito Id="12" Nombre="CUADROS" />
+      <Distrito Id="13" Nombre="H.A. CORTEZA AMARILLA-EMMANUEL" />
+    </Canton>
+    <Canton Id="9" Nombre="SANTA ANA">
+      <Distrito Id="1" Nombre="SANTA ANA" />
+      <Distrito Id="2" Nombre="SALITRAL" />
+      <Distrito Id="4" Nombre="POZOS" />
+      <Distrito Id="5" Nombre="MATINILLA" />
+      <Distrito Id="6" Nombre="RIO ORO" />
+      <Distrito Id="7" Nombre="PIEDADES" />
+      <Distrito Id="8" Nombre="BRASIL" />
+      <Distrito Id="9" Nombre="LA MINA" />
+      <Distrito Id="10" Nombre="SAN RAFAEL" />
+      <Distrito Id="11" Nombre="HONDURAS" />
+      <Distrito Id="12" Nombre="LAGOS DE LINDORA" />
+    </Canton>
+    <Canton Id="10" Nombre="ALAJUELITA">
+      <Distrito Id="1" Nombre="ALAJUELITA" />
+      <Distrito Id="2" Nombre="SAN JOSECITO" />
+      <Distrito Id="3" Nombre="SAN ANTONIO O EL LLANO" />
+      <Distrito Id="4" Nombre="CONCEPCION ABAJO" />
+      <Distrito Id="5" Nombre="SAN FELIPE" />
+      <Distrito Id="6" Nombre="LAMPARAS O CORAZON DE JESUS" />
+      <Distrito Id="7" Nombre="AURORA" />
+      <Distrito Id="8" Nombre="CONCEPCION ARRIBA" />
+      <Distrito Id="9" Nombre="TEJARCILLOS (JUAN RAFAEL MORA)" />
+    </Canton>
+    <Canton Id="11" Nombre="VAZQUEZ DE CORONADO">
+      <Distrito Id="1" Nombre="SAN ISIDRO" />
+      <Distrito Id="2" Nombre="SAN RAFAEL" />
+      <Distrito Id="3" Nombre="SAN PEDRO" />
+      <Distrito Id="4" Nombre="JESUS O DULCE NOMBRE" />
+      <Distrito Id="5" Nombre="SAN ANTONIO" />
+      <Distrito Id="6" Nombre="LAS NUBES" />
+      <Distrito Id="7" Nombre="CASCAJAL" />
+      <Distrito Id="8" Nombre="CORAZON DE JESUS" />
+    </Canton>
+    <Canton Id="12" Nombre="ACOSTA">
+      <Distrito Id="1" Nombre="SAN IGNACIO" />
+      <Distrito Id="2" Nombre="TABLAZO" />
+      <Distrito Id="3" Nombre="CHIRRACA (PARTE ESTE)" />
+      <Distrito Id="4" Nombre="AGUA BLANCA (PARTE NORTE)" />
+      <Distrito Id="5" Nombre="GUAITIL" />
+      <Distrito Id="6" Nombre="TOLEDO" />
+      <Distrito Id="7" Nombre="PALMICHAL" />
+      <Distrito Id="8" Nombre="CANGREJAL" />
+      <Distrito Id="9" Nombre="CEIBA ESTE" />
+      <Distrito Id="10" Nombre="COYOLAR" />
+      <Distrito Id="11" Nombre="SABANILLAS" />
+      <Distrito Id="12" Nombre="TERUEL" />
+      <Distrito Id="13" Nombre="BIJAGUAL" />
+      <Distrito Id="14" Nombre="LA CRUZ" />
+      <Distrito Id="15" Nombre="OCOCA" />
+      <Distrito Id="16" Nombre="SEVILLA (CACAO)" />
+      <Distrito Id="17" Nombre="BAJO DE JORCO (PARTE ESTE)" />
+      <Distrito Id="19" Nombre="LLANO DE LA MESA" />
+      <Distrito Id="20" Nombre="ZONCUANO" />
+      <Distrito Id="21" Nombre="LAS LIMAS" />
+      <Distrito Id="22" Nombre="CASPIROLA" />
+      <Distrito Id="23" Nombre="SAN LUIS" />
+      <Distrito Id="24" Nombre="ESCUADRA" />
+      <Distrito Id="26" Nombre="BAJO CACAO O CERDAS" />
+      <Distrito Id="28" Nombre="URUCA" />
+      <Distrito Id="29" Nombre="VEGAS DEL PARRITA" />
+      <Distrito Id="30" Nombre="LINDA VISTA" />
+      <Distrito Id="31" Nombre="H.A. ACOSTA" />
+    </Canton>
+    <Canton Id="13" Nombre="TIBAS">
+      <Distrito Id="1" Nombre="SAN JUAN" />
+      <Distrito Id="2" Nombre="ANSELMO LLORENTE" />
+      <Distrito Id="3" Nombre="COLIMA" />
+      <Distrito Id="4" Nombre="CINCO ESQUINAS" />
+      <Distrito Id="5" Nombre="LEON XIII" />
+      <Distrito Id="6" Nombre="CUATRO REINAS" />
+      <Distrito Id="7" Nombre="FLORIDA (INVU)" />
+    </Canton>
+    <Canton Id="14" Nombre="MORAVIA">
+      <Distrito Id="1" Nombre="SAN VICENTE" />
+      <Distrito Id="2" Nombre="SAN JERONIMO" />
+      <Distrito Id="3" Nombre="LA TRINIDAD (GUAYABAL)" />
+      <Distrito Id="4" Nombre="PLATANARES" />
+      <Distrito Id="5" Nombre="LOS SITIOS" />
+      <Distrito Id="6" Nombre="H.A. CASA NAZARETH" />
+      <Distrito Id="7" Nombre="LA ISLA" />
+    </Canton>
+    <Canton Id="15" Nombre="MONTES DE OCA">
+      <Distrito Id="1" Nombre="SAN PEDRO" />
+      <Distrito Id="2" Nombre="LOURDES" />
+      <Distrito Id="3" Nombre="SABANILLA" />
+      <Distrito Id="4" Nombre="BETANIA" />
+      <Distrito Id="5" Nombre="SAN RAFAEL" />
+      <Distrito Id="6" Nombre="CEDROS" />
+      <Distrito Id="7" Nombre="H.A. MONTES DE OCA" />
+    </Canton>
+    <Canton Id="16" Nombre="TURRUBARES">
+      <Distrito Id="1" Nombre="SAN PABLO" />
+      <Distrito Id="2" Nombre="SAN PEDRO" />
+      <Distrito Id="3" Nombre="SAN JUAN DE MATA" />
+      <Distrito Id="5" Nombre="MONTELIMAR (LOS SITIOS)" />
+      <Distrito Id="6" Nombre="LAS DELICIAS" />
+      <Distrito Id="7" Nombre="SAN GABRIEL" />
+      <Distrito Id="8" Nombre="SAN LUIS" />
+      <Distrito Id="9" Nombre="BIJAGUAL" />
+      <Distrito Id="12" Nombre="SAN RAFAEL" />
+      <Distrito Id="14" Nombre="SAN ANTONIO DE TULIN" />
+      <Distrito Id="16" Nombre="SAN FRANCISCO" />
+      <Distrito Id="17" Nombre="EL SUR" />
+      <Distrito Id="18" Nombre="POTENCIANA ARRIBA" />
+      <Distrito Id="19" Nombre="EL BARRO" />
+    </Canton>
+    <Canton Id="17" Nombre="DOTA">
+      <Distrito Id="1" Nombre="SANTA MARIA" />
+      <Distrito Id="2" Nombre="JARDIN" />
+      <Distrito Id="3" Nombre="COPEY" />
+      <Distrito Id="4" Nombre="PROVIDENCIA" />
+      <Distrito Id="5" Nombre="LA CIMA" />
+      <Distrito Id="6" Nombre="TRINIDAD" />
+      <Distrito Id="7" Nombre="SUKIA O EL BRUJO" />
+      <Distrito Id="8" Nombre="SAN GERARDO" />
+    </Canton>
+    <Canton Id="18" Nombre="CURRIDABAT">
+      <Distrito Id="1" Nombre="CURRIDABAT" />
+      <Distrito Id="3" Nombre="SANCHEZ" />
+      <Distrito Id="4" Nombre="TIRRASES" />
+      <Distrito Id="5" Nombre="LA LIA O INMACULADA" />
+      <Distrito Id="6" Nombre="CIPRESES" />
+      <Distrito Id="7" Nombre="GRANADILLA" />
+      <Distrito Id="8" Nombre="JOSE MARIA ZELEDON" />
+      <Distrito Id="9" Nombre="CIUDADELA QUINCE DE AGOSTO" />
+      <Distrito Id="10" Nombre="H.A. CURRIDABAT" />
+    </Canton>
+    <Canton Id="19" Nombre="PEREZ ZELEDON">
+      <Distrito Id="1" Nombre="SAN ISIDRO DE EL GENERAL" />
+      <Distrito Id="2" Nombre="LA PALMA" />
+      <Distrito Id="3" Nombre="SANTA ROSA" />
+      <Distrito Id="4" Nombre="LA ESPERANZA" />
+      <Distrito Id="5" Nombre="GENERAL VIEJO" />
+      <Distrito Id="6" Nombre="PALMARES" />
+      <Distrito Id="7" Nombre="RIVAS" />
+      <Distrito Id="8" Nombre="SAN PEDRO" />
+      <Distrito Id="9" Nombre="CANDELARIA O ANGOSTURA" />
+      <Distrito Id="10" Nombre="PEDREGOSO" />
+      <Distrito Id="11" Nombre="SAN RAMON SUR" />
+      <Distrito Id="12" Nombre="PACUARITO" />
+      <Distrito Id="13" Nombre="QUEBRADAS" />
+      <Distrito Id="14" Nombre="SAN CRISTOBAL O TINAMASTE" />
+      <Distrito Id="15" Nombre="SAN JUAN DE DIOS O GUABO" />
+      <Distrito Id="16" Nombre="LA HERMOSA" />
+      <Distrito Id="17" Nombre="BOLIVIA" />
+      <Distrito Id="18" Nombre="SAN JUAN BOSCO (PATIO DE AGUA)" />
+      <Distrito Id="19" Nombre="LA REPUNTA" />
+      <Distrito Id="20" Nombre="BUENA VISTA" />
+      <Distrito Id="21" Nombre="PUEBLO NUEVO" />
+      <Distrito Id="22" Nombre="CANAAN" />
+      <Distrito Id="23" Nombre="SAN RAFAEL NORTE DE SAN ISIDRO" />
+      <Distrito Id="24" Nombre="LOS REYES" />
+      <Distrito Id="25" Nombre="SAN RAFAEL DE PLATANARES" />
+      <Distrito Id="26" Nombre="CARMEN O CAJON" />
+      <Distrito Id="27" Nombre="PLATANILLO" />
+      <Distrito Id="28" Nombre="QUIZARRA (PARTE ESTE)" />
+      <Distrito Id="29" Nombre="SAN GABRIEL" />
+      <Distrito Id="30" Nombre="SANTA TERESA" />
+      <Distrito Id="31" Nombre="PEJIBAYE" />
+      <Distrito Id="32" Nombre="SANTO TOMAS" />
+      <Distrito Id="33" Nombre="PE�AS BLANCAS" />
+      <Distrito Id="34" Nombre="AGUILA ABAJO" />
+      <Distrito Id="35" Nombre="SAN PABLO" />
+      <Distrito Id="36" Nombre="ZAPOTE" />
+      <Distrito Id="37" Nombre="DIVISION (PARTE OESTE)" />
+      <Distrito Id="38" Nombre="DESAMPARADOS" />
+      <Distrito Id="39" Nombre="SAN MIGUEL" />
+      <Distrito Id="40" Nombre="MESAS" />
+      <Distrito Id="41" Nombre="SAVEGRE ABAJO" />
+      <Distrito Id="42" Nombre="SANTA ELENA" />
+      <Distrito Id="43" Nombre="SAN RAFAEL DE SAN PEDRO" />
+      <Distrito Id="44" Nombre="BRUJO" />
+      <Distrito Id="45" Nombre="EL LLANO" />
+      <Distrito Id="46" Nombre="VILLA BONITA" />
+      <Distrito Id="47" Nombre="SANTA LUCIA (SANTA LUISA)" />
+      <Distrito Id="48" Nombre="SAN SALVADOR" />
+      <Distrito Id="49" Nombre="SAN BLAS (LINDA ARRIBA)" />
+      <Distrito Id="50" Nombre="AGUAS BUENAS" />
+      <Distrito Id="51" Nombre="SAN AGUSTIN" />
+      <Distrito Id="52" Nombre="HERRADURA" />
+      <Distrito Id="53" Nombre="TAMBOR" />
+      <Distrito Id="54" Nombre="SAN JERONIMO" />
+      <Distrito Id="55" Nombre="FATIMA" />
+      <Distrito Id="56" Nombre="CONCEPCION (PARTE ESTE)" />
+      <Distrito Id="57" Nombre="SIERRA" />
+      <Distrito Id="58" Nombre="SAN CARLOS" />
+      <Distrito Id="59" Nombre="MERCEDES" />
+      <Distrito Id="60" Nombre="SAN FRANCISCO" />
+      <Distrito Id="61" Nombre="LA LINDA" />
+      <Distrito Id="62" Nombre="LA UNION DE SAN PEDRO" />
+      <Distrito Id="63" Nombre="VISTA DE MAR NORTE" />
+      <Distrito Id="64" Nombre="CALLE MORAS" />
+      <Distrito Id="65" Nombre="LOS ANGELES DE PARAMO" />
+      <Distrito Id="66" Nombre="SAN CAYETANO (RIO NUEVO)" />
+      <Distrito Id="67" Nombre="SAN JUAN DE MIRAMAR (ALTO SN JUAN)" />
+      <Distrito Id="68" Nombre="CEIBO ARRIBA" />
+      <Distrito Id="69" Nombre="CHINA KICHA" />
+      <Distrito Id="70" Nombre="SAN ANTONIO" />
+      <Distrito Id="71" Nombre="SIBERIA (PARTE OESTE)" />
+      <Distrito Id="72" Nombre="LA ESE" />
+      <Distrito Id="73" Nombre="LAS JUNTAS DE PACUAR" />
+      <Distrito Id="74" Nombre="VILLA LIGIA" />
+      <Distrito Id="75" Nombre="LOS CHILES" />
+      <Distrito Id="76" Nombre="CHIMIROL" />
+      <Distrito Id="77" Nombre="SAN MARTIN (LAS MULAS)" />
+      <Distrito Id="78" Nombre="GUADALUPE" />
+      <Distrito Id="79" Nombre="RIO GRANDE" />
+      <Distrito Id="80" Nombre="LA PIEDRA DE RIVAS" />
+      <Distrito Id="81" Nombre="PAVONES" />
+      <Distrito Id="82" Nombre="EL HOYON" />
+      <Distrito Id="83" Nombre="SINAI" />
+      <Distrito Id="84" Nombre="VALENCIA" />
+      <Distrito Id="85" Nombre="MIRAVALLES" />
+      <Distrito Id="86" Nombre="TRINIDAD" />
+      <Distrito Id="87" Nombre="VERACRUZ" />
+      <Distrito Id="88" Nombre="MOLLEJONES" />
+      <Distrito Id="89" Nombre="SOCORRO" />
+      <Distrito Id="90" Nombre="LOS ANGELES DE LIGIA" />
+      <Distrito Id="91" Nombre="VILLANUEVA DE PEDREGOSO" />
+      <Distrito Id="92" Nombre="SANTA EDUVIGIS" />
+      <Distrito Id="93" Nombre="SAGRADA FAMILIA" />
+      <Distrito Id="94" Nombre="ROSARIO O ARRONIS" />
+      <Distrito Id="95" Nombre="MIRAFLORES" />
+      <Distrito Id="96" Nombre="PALMITAL" />
+      <Distrito Id="97" Nombre="SANTIAGO" />
+      <Distrito Id="98" Nombre="ESPERANZA DE SAN PEDRO" />
+      <Distrito Id="99" Nombre="VILLA ARGENTINA" />
+      <Distrito Id="100" Nombre="SAN RAMON NORTE" />
+      <Distrito Id="101" Nombre="JARDIN (PARTE ESTE)" />
+      <Distrito Id="102" Nombre="BERLIN" />
+      <Distrito Id="103" Nombre="BAJO ESPERANZA" />
+      <Distrito Id="104" Nombre="PILAR" />
+      <Distrito Id="105" Nombre="C.P. ANTONIO BASTIDA DE PAZ" />
+      <Distrito Id="106" Nombre="CRISTO REY" />
+      <Distrito Id="107" Nombre="CALIFORNIA DE RIO NUEVO" />
+      <Distrito Id="108" Nombre="H.A. MONS.DELFIN QUESADA CASTRO" />
+      <Distrito Id="109" Nombre="PIEDRA ALTA" />
+      <Distrito Id="110" Nombre="BONITA" />
+      <Distrito Id="111" Nombre="CENIZA" />
+      <Distrito Id="112" Nombre="COCORI" />
+      <Distrito Id="113" Nombre="COOPERATIVA" />
+      <Distrito Id="114" Nombre="INVU PEDRO PEREZ" />
+      <Distrito Id="115" Nombre="MORAZAN" />
+      <Distrito Id="116" Nombre="SAN ANDRES" />
+      <Distrito Id="117" Nombre="TIERRA PROMETIDA" />
+      <Distrito Id="118" Nombre="BAIDAMBU" />
+      <Distrito Id="119" Nombre="LA AURORA" />
+      <Distrito Id="120" Nombre="TIRRA" />
+      <Distrito Id="121" Nombre="RIO QUEBRADAS ARRIBA" />
+      <Distrito Id="122" Nombre="DANIEL FLORES" />
+      <Distrito Id="123" Nombre="SAN GERARDO" />
+      <Distrito Id="124" Nombre="C.P. PABRU PRESBERI" />
+    </Canton>
+    <Canton Id="20" Nombre="LEON CORTES CASTRO">
+      <Distrito Id="1" Nombre="SAN PABLO" />
+      <Distrito Id="2" Nombre="SAN ANDRES" />
+      <Distrito Id="3" Nombre="LLANO BONITO (SAN RAFAEL ARRIBA)" />
+      <Distrito Id="4" Nombre="SAN ISIDRO" />
+      <Distrito Id="5" Nombre="SANTA CRUZ" />
+      <Distrito Id="6" Nombre="ANGOSTURA ABAJO" />
+      <Distrito Id="7" Nombre="SAN RAFAEL ABAJO (BENEFICIO CAFE)" />
+      <Distrito Id="8" Nombre="SANTA ROSA ABAJO ESTE" />
+      <Distrito Id="9" Nombre="CEDRAL PARTE NORTE" />
+      <Distrito Id="11" Nombre="SAN FRANCISCO" />
+      <Distrito Id="12" Nombre="TRINIDAD" />
+      <Distrito Id="13" Nombre="SAN MARTIN" />
+      <Distrito Id="14" Nombre="LA LUCHA (SUR DEL RIO)" />
+      <Distrito Id="15" Nombre="SAN ANTONIO" />
+      <Distrito Id="16" Nombre="HIGUERON" />
+      <Distrito Id="17" Nombre="LA CUESTA O BAJO DE TARRAZU" />
+      <Distrito Id="18" Nombre="CARRIZALES" />
+      <Distrito Id="19" Nombre="SANTA JUANA" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="2" Nombre="ALAJUELA">
+    <Canton Id="1" Nombre="CENTRAL">
+      <Distrito Id="1" Nombre="ALAJUELA" />
+      <Distrito Id="2" Nombre="CONCEPCION O EL LLANO" />
+      <Distrito Id="3" Nombre="CANOAS" />
+      <Distrito Id="4" Nombre="SAN JOSE" />
+      <Distrito Id="5" Nombre="EL COYOL" />
+      <Distrito Id="6" Nombre="TUETAL SUR" />
+      <Distrito Id="7" Nombre="CARRIZAL" />
+      <Distrito Id="8" Nombre="UJARRAS" />
+      <Distrito Id="9" Nombre="SAN ANTONIO DEL TEJAR" />
+      <Distrito Id="10" Nombre="EL ROBLE" />
+      <Distrito Id="11" Nombre="GUACIMA (SANTIAGO OESTE)" />
+      <Distrito Id="12" Nombre="EL COCO" />
+      <Distrito Id="13" Nombre="LAS VUELTAS" />
+      <Distrito Id="14" Nombre="SAN ISIDRO" />
+      <Distrito Id="15" Nombre="ITIQUIS" />
+      <Distrito Id="16" Nombre="DULCE NOMBRE DE LAGUNA" />
+      <Distrito Id="17" Nombre="SABANILLA" />
+      <Distrito Id="18" Nombre="SAN LUIS" />
+      <Distrito Id="19" Nombre="LOS ANGELES" />
+      <Distrito Id="20" Nombre="FRAIJANES" />
+      <Distrito Id="21" Nombre="SAN RAFAEL ESTE" />
+      <Distrito Id="22" Nombre="SAN RAFAEL OESTE" />
+      <Distrito Id="24" Nombre="RIO SEGUNDO (SANTIAGO ESTE)" />
+      <Distrito Id="25" Nombre="DESAMPARADOS" />
+      <Distrito Id="26" Nombre="TURRUCARES" />
+      <Distrito Id="27" Nombre="CINCO ESQUINAS" />
+      <Distrito Id="28" Nombre="CEBADILLA" />
+      <Distrito Id="29" Nombre="SAN MIGUEL O CERRILLOS" />
+      <Distrito Id="30" Nombre="TAMBOR (SANTA ANA)" />
+      <Distrito Id="31" Nombre="CACAO" />
+      <Distrito Id="32" Nombre="TUETAL NORTE (PARTE)" />
+      <Distrito Id="33" Nombre=" GARITA" />
+      <Distrito Id="34" Nombre="POASITO" />
+      <Distrito Id="35" Nombre="SAN MIGUEL DE SARAPIQUI" />
+      <Distrito Id="36" Nombre="PAVAS (GUARARI)" />
+      <Distrito Id="37" Nombre="SAN MARTIN" />
+      <Distrito Id="39" Nombre="SIQUIARES" />
+      <Distrito Id="40" Nombre="CORAZON DE JESUS" />
+      <Distrito Id="41" Nombre="EL CERRO" />
+      <Distrito Id="42" Nombre="VILLA BONITA (PARTE SUR)" />
+      <Distrito Id="43" Nombre="CIRUELAS" />
+      <Distrito Id="44" Nombre="CACIQUE" />
+      <Distrito Id="45" Nombre="DULCE NOMBRE O LAS ANIMAS" />
+      <Distrito Id="46" Nombre="PUEBLO NUEVO" />
+      <Distrito Id="47" Nombre="MONTECILLOS (PARTE NORTE)" />
+      <Distrito Id="48" Nombre="NUESTRO AMO" />
+      <Distrito Id="49" Nombre="INVU LOS RODRIGUEZ" />
+      <Distrito Id="50" Nombre="TACACORI" />
+      <Distrito Id="51" Nombre="PACTO DEL JOCOTE" />
+      <Distrito Id="52" Nombre="CERRILLAL" />
+      <Distrito Id="53" Nombre="VILLA HELIA (FINCA HELIA)" />
+      <Distrito Id="54" Nombre="QUEBRADAS" />
+      <Distrito Id="55" Nombre="ROSALES" />
+      <Distrito Id="56" Nombre="CALIFORNIA" />
+      <Distrito Id="57" Nombre="LAS PILAS" />
+      <Distrito Id="58" Nombre="C.P. REYNALDO VILLALOBOS Z." />
+      <Distrito Id="59" Nombre="C.P. LUIS PAULINO MORA MORA" />
+      <Distrito Id="60" Nombre="C.P. AMBITOS A Y B (MINIMA)" />
+      <Distrito Id="62" Nombre="C.P. AMBITO C (MEDIANA ABIERTA)" />
+      <Distrito Id="63" Nombre="C.P.  AMBITO D (MEDIANA CERRADA)" />
+      <Distrito Id="64" Nombre="C.P. GERARDO RODRIGUEZ ECHEVERRIA" />
+      <Distrito Id="65" Nombre="C.P. ADULTO MAYOR" />
+      <Distrito Id="66" Nombre="H.A. SANTIAGO CRESPO CALVO" />
+      <Distrito Id="67" Nombre="BARRIO CORAZON DE JESUS" />
+      <Distrito Id="68" Nombre="EL ARROYO" />
+      <Distrito Id="69" Nombre="EL CARMEN" />
+      <Distrito Id="70" Nombre="RINCON CHIQUITO" />
+      <Distrito Id="71" Nombre="C.P. ADULTO JOVEN" />
+      <Distrito Id="72" Nombre="EL PARAISO" />
+      <Distrito Id="73" Nombre="RINCON DE HERRERA" />
+      <Distrito Id="74" Nombre="C.P. AMBITO E INDICIADOS PENSIONES" />
+      <Distrito Id="75" Nombre="C.P CENTRO NAC. DE ATENCION ESPEC." />
+    </Canton>
+    <Canton Id="2" Nombre="SAN RAMON">
+      <Distrito Id="1" Nombre="SAN RAMON" />
+      <Distrito Id="2" Nombre="SANTIAGO" />
+      <Distrito Id="3" Nombre="SAN JOSE (RIO JESUS)" />
+      <Distrito Id="4" Nombre="SAN JUAN" />
+      <Distrito Id="5" Nombre="PIEDADES NORTE" />
+      <Distrito Id="6" Nombre="LA PAZ" />
+      <Distrito Id="7" Nombre="PIEDADES SUR" />
+      <Distrito Id="8" Nombre="SALVADOR" />
+      <Distrito Id="9" Nombre="SAN FRANCISCO" />
+      <Distrito Id="10" Nombre="SAN MIGUEL" />
+      <Distrito Id="11" Nombre="BUREAL" />
+      <Distrito Id="12" Nombre="SAN RAFAEL" />
+      <Distrito Id="13" Nombre="BERLIN" />
+      <Distrito Id="14" Nombre="CALLE ZAMORA" />
+      <Distrito Id="15" Nombre="LLANO DE BRENES" />
+      <Distrito Id="16" Nombre="SAN ISIDRO" />
+      <Distrito Id="17" Nombre="LOS ANGELES SUR" />
+      <Distrito Id="18" Nombre="BAJO CORDOBA" />
+      <Distrito Id="19" Nombre="SAN PEDRO" />
+      <Distrito Id="20" Nombre="VOLIO" />
+      <Distrito Id="21" Nombre="ALTO VILLEGAS" />
+      <Distrito Id="22" Nombre="CONCEPCION" />
+      <Distrito Id="23" Nombre="SAN ANTONIO DE ZAPOTAL" />
+      <Distrito Id="24" Nombre="SAN ISIDRO DE PE�AS BLANCAS" />
+      <Distrito Id="25" Nombre="CARRERA BUENA" />
+      <Distrito Id="26" Nombre="BOLIVAR (ESPERANZA)" />
+      <Distrito Id="27" Nombre="LA ESPERANZA" />
+      <Distrito Id="28" Nombre="CHACHAGUA" />
+      <Distrito Id="29" Nombre="BAJO DE LOS RODRIGUEZ" />
+      <Distrito Id="30" Nombre="COLONIA TRINIDAD" />
+      <Distrito Id="31" Nombre="LOS CRIQUES" />
+      <Distrito Id="32" Nombre="BAJO LA PAZ" />
+      <Distrito Id="34" Nombre="GUARIA (RIO GRANDE)" />
+      <Distrito Id="35" Nombre="SECTOR LOS ANGELES" />
+      <Distrito Id="36" Nombre="CATARATA" />
+      <Distrito Id="37" Nombre="VALLE AZUL" />
+      <Distrito Id="38" Nombre="BAJO ZU�IGA" />
+      <Distrito Id="39" Nombre="SOCORRO" />
+      <Distrito Id="40" Nombre="LA GUARIA" />
+      <Distrito Id="41" Nombre="ANGOSTURA" />
+      <Distrito Id="42" Nombre="EL CASTILLO" />
+      <Distrito Id="44" Nombre="ZAPOTAL PARTE ESTE" />
+      <Distrito Id="45" Nombre="H.A. SAN RAMON" />
+      <Distrito Id="46" Nombre="CIUDADELA JARDINES" />
+      <Distrito Id="47" Nombre="CALLE LEON" />
+      <Distrito Id="48" Nombre="EMPALME" />
+      <Distrito Id="49" Nombre="SAN MARTIN (EL BOSQUE)" />
+      <Distrito Id="50" Nombre="BARRIO BELEN" />
+      <Distrito Id="51" Nombre="LA BALSA" />
+    </Canton>
+    <Canton Id="3" Nombre="GRECIA">
+      <Distrito Id="1" Nombre="GRECIA" />
+      <Distrito Id="2" Nombre="MESON O DULCE NOMBRE" />
+      <Distrito Id="3" Nombre="SAN FRANCISCO" />
+      <Distrito Id="4" Nombre="SAN JOSE Y SANTA GERTRUDIS NORTE" />
+      <Distrito Id="5" Nombre="SANTA GERTRUDIS SUR" />
+      <Distrito Id="7" Nombre="SAN ROQUE" />
+      <Distrito Id="8" Nombre="TACARES" />
+      <Distrito Id="9" Nombre="RINCON DE ARIAS" />
+      <Distrito Id="12" Nombre="LA ARENA (PARTE NORTE)" />
+      <Distrito Id="14" Nombre="CALLE RODRIGUEZ" />
+      <Distrito Id="15" Nombre="CATALU�A" />
+      <Distrito Id="17" Nombre="PUENTE DE PIEDRA" />
+      <Distrito Id="18" Nombre="RINCON DE SALAS" />
+      <Distrito Id="19" Nombre="LOS ANGELES DE BOLIVAR" />
+      <Distrito Id="20" Nombre="SAN JUAN" />
+      <Distrito Id="22" Nombre="SAN LUIS" />
+      <Distrito Id="23" Nombre="SAN MIGUEL" />
+      <Distrito Id="25" Nombre="LOS LOTES (SAN VICENTE)" />
+      <Distrito Id="26" Nombre="BODEGAS" />
+      <Distrito Id="27" Nombre="ALTOS DE PERALTA" />
+      <Distrito Id="28" Nombre="BARRIO LATINO (AGUALOTE)" />
+      <Distrito Id="29" Nombre="CAJON (BARRIO SAN JOSE)" />
+      <Distrito Id="32" Nombre="CARBONAL (CRISTO REY)" />
+      <Distrito Id="33" Nombre="CALLE SAN JOSE" />
+      <Distrito Id="34" Nombre="SAN MIGUEL ARRIBA" />
+      <Distrito Id="35" Nombre="CALLE ACHIOTE" />
+      <Distrito Id="36" Nombre="SAN ISIDRO" />
+      <Distrito Id="37" Nombre="CEDRO" />
+      <Distrito Id="38" Nombre="PORO" />
+      <Distrito Id="39" Nombre="LEON CORTES CASTRO" />
+      <Distrito Id="43" Nombre="BAJO ROSALES" />
+      <Distrito Id="44" Nombre="CAJON ARRIBA" />
+      <Distrito Id="45" Nombre="H.A. JAFETH JIMENEZ MORALES" />
+      <Distrito Id="47" Nombre="LA ARGENTINA" />
+    </Canton>
+    <Canton Id="4" Nombre="SAN MATEO">
+      <Distrito Id="1" Nombre="SAN MATEO" />
+      <Distrito Id="2" Nombre="HIGUITO" />
+      <Distrito Id="3" Nombre="MADERAL" />
+      <Distrito Id="4" Nombre="DULCE NOMBRE" />
+      <Distrito Id="5" Nombre="DESMONTE" />
+      <Distrito Id="8" Nombre="JESUS MARIA" />
+      <Distrito Id="9" Nombre="LABRADOR" />
+      <Distrito Id="10" Nombre="ESTANQUILLOS O SAN ANTONIO (P.O.)" />
+    </Canton>
+    <Canton Id="5" Nombre="ATENAS">
+      <Distrito Id="1" Nombre="ATENAS" />
+      <Distrito Id="2" Nombre="LOS ANGELES" />
+      <Distrito Id="3" Nombre="JESUS" />
+      <Distrito Id="4" Nombre="SABANA LARGA" />
+      <Distrito Id="6" Nombre="ESCOBAL" />
+      <Distrito Id="7" Nombre="MERCEDES" />
+      <Distrito Id="8" Nombre="GUACIMO" />
+      <Distrito Id="9" Nombre="SAN ISIDRO" />
+      <Distrito Id="10" Nombre="RINCON DE SAN ISIDRO" />
+      <Distrito Id="11" Nombre="CONCEPCION" />
+      <Distrito Id="12" Nombre="BALSA" />
+      <Distrito Id="13" Nombre="SAN JOSE SUR" />
+      <Distrito Id="14" Nombre="SANTA EULALIA" />
+      <Distrito Id="15" Nombre="MORAZAN" />
+      <Distrito Id="16" Nombre="H.A. HORTENSIA RODRIGUEZ S.DE B" />
+      <Distrito Id="17" Nombre="ESTANQUILLO (SAN ANTONIO) (P.EST.)" />
+    </Canton>
+    <Canton Id="6" Nombre="NARANJO">
+      <Distrito Id="1" Nombre="NARANJO" />
+      <Distrito Id="2" Nombre="CANDELARIA (BAJO CORRALES)" />
+      <Distrito Id="3" Nombre="SAN ANTONIO DE LA CUEVA" />
+      <Distrito Id="4" Nombre="SAN JUAN (ACEQUIA GRANDE)" />
+      <Distrito Id="5" Nombre="SAN MIGUEL" />
+      <Distrito Id="6" Nombre="PALMITOS" />
+      <Distrito Id="7" Nombre="CONCEPCION ESTE" />
+      <Distrito Id="8" Nombre="ROSARIO (EL HOYO)" />
+      <Distrito Id="9" Nombre="SAN JOSE (SAN JUANILLO)" />
+      <Distrito Id="10" Nombre="BARRANCA" />
+      <Distrito Id="11" Nombre="SAN ANTONIO DE BARRANCA" />
+      <Distrito Id="12" Nombre="CIRRI SUR" />
+      <Distrito Id="13" Nombre="LLANO BONITO O CIRRI NORTE" />
+      <Distrito Id="14" Nombre="SAN ROQUE" />
+      <Distrito Id="15" Nombre="CA�UELA ARRIBA" />
+      <Distrito Id="16" Nombre="SAN JERONIMO" />
+      <Distrito Id="17" Nombre="LOS ROBLES" />
+      <Distrito Id="18" Nombre="SAN FRANCISCO (VACA MUERTA)" />
+      <Distrito Id="19" Nombre="COMUN O SAN RAFAEL" />
+      <Distrito Id="20" Nombre="LOURDES" />
+      <Distrito Id="21" Nombre="DULCE NOMBRE (VILLANO)" />
+      <Distrito Id="22" Nombre="H.A. JOSE DEL OLMO" />
+      <Distrito Id="23" Nombre="SANTA MARGARITA" />
+    </Canton>
+    <Canton Id="7" Nombre="PALMARES">
+      <Distrito Id="1" Nombre="PALMARES" />
+      <Distrito Id="2" Nombre="ZARAGOZA" />
+      <Distrito Id="3" Nombre="RINCON DE ZARAGOZA" />
+      <Distrito Id="4" Nombre="BUENOS AIRES" />
+      <Distrito Id="5" Nombre="LA GRANJA" />
+      <Distrito Id="6" Nombre="SANTIAGO" />
+      <Distrito Id="7" Nombre="CANDELARIA" />
+      <Distrito Id="8" Nombre="ESQUIPULAS" />
+      <Distrito Id="9" Nombre="H.A. PALMARES" />
+      <Distrito Id="10" Nombre="COCALECA (PARTE OESTE)" />
+      <Distrito Id="11" Nombre="CALLE VARGAS" />
+    </Canton>
+    <Canton Id="8" Nombre="POAS">
+      <Distrito Id="1" Nombre="SAN PEDRO" />
+      <Distrito Id="2" Nombre="SAN JUAN SUR" />
+      <Distrito Id="3" Nombre="SAN RAFAEL" />
+      <Distrito Id="4" Nombre="CARRILLOS BAJO" />
+      <Distrito Id="5" Nombre="SABANA REDONDA" />
+      <Distrito Id="6" Nombre="SANTA ROSA" />
+      <Distrito Id="7" Nombre="CHILAMATE" />
+      <Distrito Id="8" Nombre="SAN JUAN NORTE" />
+      <Distrito Id="10" Nombre="CARRILLOS ALTO" />
+      <Distrito Id="11" Nombre="GUATUZA" />
+    </Canton>
+    <Canton Id="9" Nombre="OROTINA">
+      <Distrito Id="1" Nombre="OROTINA" />
+      <Distrito Id="2" Nombre="EL MASTATE" />
+      <Distrito Id="3" Nombre="HACIENDA VIEJA" />
+      <Distrito Id="4" Nombre="COYOLAR" />
+      <Distrito Id="5" Nombre="CASCAJAL" />
+      <Distrito Id="6" Nombre="NUEVA SANTA RITA" />
+      <Distrito Id="7" Nombre="CUATRO ESQUINAS NORTE" />
+      <Distrito Id="9" Nombre="LA CEIBA" />
+      <Distrito Id="10" Nombre="SAN JERONIMO" />
+      <Distrito Id="11" Nombre="PARCELAS TRINIDAD (UVITA)" />
+      <Distrito Id="12" Nombre="H.A. PRESBITERO JESUS MARIA VARGAS" />
+    </Canton>
+    <Canton Id="10" Nombre="SAN CARLOS">
+      <Distrito Id="1" Nombre="QUESADA" />
+      <Distrito Id="2" Nombre="DULCE NOMBRE" />
+      <Distrito Id="3" Nombre="SUCRE" />
+      <Distrito Id="4" Nombre="FLORENCIA" />
+      <Distrito Id="5" Nombre="QUEBRADA AZUL" />
+      <Distrito Id="6" Nombre="MUELLE DE SAN CARLOS" />
+      <Distrito Id="8" Nombre="SANTA CLARA" />
+      <Distrito Id="9" Nombre="LA VEGA O CUATRO ESQUINAS" />
+      <Distrito Id="10" Nombre="BUENAVISTA" />
+      <Distrito Id="11" Nombre="AGUAS ZARCAS" />
+      <Distrito Id="12" Nombre="LOS CHILES" />
+      <Distrito Id="13" Nombre="LA TIGRA" />
+      <Distrito Id="14" Nombre="LA PALMERA" />
+      <Distrito Id="15" Nombre="PITAL" />
+      <Distrito Id="16" Nombre="LA UNION ESTE" />
+      <Distrito Id="17" Nombre="VENECIA" />
+      <Distrito Id="18" Nombre="SAN VICENTE" />
+      <Distrito Id="19" Nombre="PORVENIR" />
+      <Distrito Id="20" Nombre="BOCA DE ARENAL" />
+      <Distrito Id="21" Nombre="LA FORTUNA" />
+      <Distrito Id="22" Nombre="EL TANQUE" />
+      <Distrito Id="23" Nombre="GUARIA DE FORTUNA" />
+      <Distrito Id="24" Nombre="PLATANAR" />
+      <Distrito Id="25" Nombre="SAN JUAN DE QUEBRADA DE PALO" />
+      <Distrito Id="26" Nombre="VERACRUZ" />
+      <Distrito Id="27" Nombre="SANTO DOMINGO" />
+      <Distrito Id="28" Nombre="SAN FRANCISCO O VACA BLANCA" />
+      <Distrito Id="29" Nombre="LOS LLANOS O ALTAMIRITA" />
+      <Distrito Id="30" Nombre="LA VIEJA" />
+      <Distrito Id="31" Nombre="SAN RAFAEL DE PLATANAR" />
+      <Distrito Id="32" Nombre="SAN PEDRO Y TABLA GRANDE" />
+      <Distrito Id="33" Nombre="AGUA AZUL" />
+      <Distrito Id="35" Nombre="LOS ANGELES" />
+      <Distrito Id="36" Nombre="VENADO" />
+      <Distrito Id="37" Nombre="JICARITO" />
+      <Distrito Id="38" Nombre="BUENOS AIRES" />
+      <Distrito Id="40" Nombre="MONTELIMAR" />
+      <Distrito Id="41" Nombre="SAN JOSECITO DE CUTRIS" />
+      <Distrito Id="42" Nombre="SAN GERARDO DE POCOSOL" />
+      <Distrito Id="43" Nombre="SAN JOAQUIN" />
+      <Distrito Id="45" Nombre="CORAZON DE JESUS" />
+      <Distrito Id="46" Nombre="LA UNION" />
+      <Distrito Id="47" Nombre="SAHINO O SAN JORGE" />
+      <Distrito Id="48" Nombre="LA LEGUA" />
+      <Distrito Id="49" Nombre="SAN GERARDO" />
+      <Distrito Id="50" Nombre="LA MARINA" />
+      <Distrito Id="51" Nombre="CEDRAL" />
+      <Distrito Id="52" Nombre="CHAMBACU DE MONTERREY" />
+      <Distrito Id="53" Nombre="SAN RAMON (CARIBLANCA)" />
+      <Distrito Id="54" Nombre="SAN JOSE DE LA TIGRA" />
+      <Distrito Id="55" Nombre="SAN PEDRO DE LA TIGRA" />
+      <Distrito Id="56" Nombre="SAN MIGUEL O LIMBO" />
+      <Distrito Id="57" Nombre="EL CONCHO" />
+      <Distrito Id="58" Nombre="SAN ROQUE" />
+      <Distrito Id="59" Nombre="SANTA ROSA DE POCOSOL" />
+      <Distrito Id="60" Nombre="BELLA VISTA" />
+      <Distrito Id="61" Nombre="LAS BRISAS" />
+      <Distrito Id="62" Nombre="SANTA RITA" />
+      <Distrito Id="63" Nombre="BOCA TAPADA" />
+      <Distrito Id="64" Nombre="COOPEVEGA" />
+      <Distrito Id="65" Nombre="PITALITO" />
+      <Distrito Id="66" Nombre="LOS ANGELES DE PITAL" />
+      <Distrito Id="67" Nombre="ESTERITO" />
+      <Distrito Id="68" Nombre="SANTA MARIA" />
+      <Distrito Id="69" Nombre="SAN DIEGO" />
+      <Distrito Id="70" Nombre="MORAVIA" />
+      <Distrito Id="71" Nombre="CARRIZAL" />
+      <Distrito Id="72" Nombre="SAN JUAN DE LA CEIBA" />
+      <Distrito Id="73" Nombre="EL PLOMO" />
+      <Distrito Id="74" Nombre="SAN MARCOS NORTE" />
+      <Distrito Id="75" Nombre="MARSELLA" />
+      <Distrito Id="76" Nombre="ACAPULCO" />
+      <Distrito Id="77" Nombre="SAN FRANCISCO O LA AQUILEA" />
+      <Distrito Id="78" Nombre="LINDA VISTA" />
+      <Distrito Id="79" Nombre="LA GLORIA O SAN MARCOS" />
+      <Distrito Id="80" Nombre="GUARIA DE POCOSOL" />
+      <Distrito Id="81" Nombre="SONAFLUCA" />
+      <Distrito Id="82" Nombre="SANTA FE O LA FAMA" />
+      <Distrito Id="83" Nombre="SAN JORGE DE CUTRIS" />
+      <Distrito Id="84" Nombre="DELICIAS" />
+      <Distrito Id="85" Nombre="SAN BOSCO" />
+      <Distrito Id="86" Nombre="ALMENDROS" />
+      <Distrito Id="88" Nombre="BUENOS AIRES DE VENECIA" />
+      <Distrito Id="89" Nombre="SAN MARTIN" />
+      <Distrito Id="90" Nombre="CERRO CORTES" />
+      <Distrito Id="91" Nombre="PALMAR" />
+      <Distrito Id="92" Nombre="SAN CRISTOBAL" />
+      <Distrito Id="93" Nombre="C.P. NELSON MANDELA" />
+      <Distrito Id="94" Nombre="H.A. SAN VICENTE DE PAUL" />
+      <Distrito Id="95" Nombre="ABUNDANCIA" />
+      <Distrito Id="96" Nombre="SAN JOSE DE LA MONTA�A" />
+      <Distrito Id="97" Nombre="SAN PABLO" />
+      <Distrito Id="98" Nombre="CONCEPCION" />
+      <Distrito Id="99" Nombre="EL CORTE (SANTA ROSA)" />
+      <Distrito Id="100" Nombre="CARMEN" />
+      <Distrito Id="101" Nombre="TRES Y TRES" />
+      <Distrito Id="102" Nombre="SANTA ELENA" />
+      <Distrito Id="103" Nombre="CORAZON DE JESUS DE LA TESALIA" />
+    </Canton>
+    <Canton Id="11" Nombre="ZARCERO">
+      <Distrito Id="1" Nombre="ZARCERO" />
+      <Distrito Id="2" Nombre="LAGUNA" />
+      <Distrito Id="3" Nombre="TAPESCO" />
+      <Distrito Id="4" Nombre="SANTA ROSA" />
+      <Distrito Id="5" Nombre="GUADALUPE" />
+      <Distrito Id="6" Nombre="SAN LUIS O MORELOS" />
+      <Distrito Id="7" Nombre="PALMIRA" />
+      <Distrito Id="8" Nombre="ZAPOTE" />
+      <Distrito Id="9" Nombre="PUEBLO NUEVO DE LA PICADA" />
+      <Distrito Id="10" Nombre="SAN JUAN DE LAJAS" />
+      <Distrito Id="11" Nombre="LEGUA" />
+      <Distrito Id="12" Nombre="H.A. SAN RAFAEL" />
+      <Distrito Id="13" Nombre="ANATERI" />
+    </Canton>
+    <Canton Id="12" Nombre="VALVERDE VEGA">
+      <Distrito Id="1" Nombre="SARCHI NORTE" />
+      <Distrito Id="2" Nombre="SARCHI SUR" />
+      <Distrito Id="3" Nombre="SAN PEDRO" />
+      <Distrito Id="4" Nombre="BAJOS DEL TORO" />
+      <Distrito Id="5" Nombre="SAN JUAN" />
+      <Distrito Id="6" Nombre="LOS ANGELES" />
+      <Distrito Id="7" Nombre="SAN JOSE DE TROJAS" />
+      <Distrito Id="8" Nombre="LA LUISA" />
+      <Distrito Id="9" Nombre="SABANILLA" />
+    </Canton>
+    <Canton Id="13" Nombre="UPALA">
+      <Distrito Id="1" Nombre="UPALA" />
+      <Distrito Id="2" Nombre="SAN ISIDRO DE ZAPOTE" />
+      <Distrito Id="3" Nombre="COLONIA PUNTARENAS" />
+      <Distrito Id="4" Nombre="CANALETE" />
+      <Distrito Id="5" Nombre="SAN ISIDRO DE AGUAS CLARAS" />
+      <Distrito Id="6" Nombre="COLONIA LIBERTAD" />
+      <Distrito Id="7" Nombre="CUATRO BOCAS" />
+      <Distrito Id="8" Nombre="SAN JOSE O PIZOTE" />
+      <Distrito Id="9" Nombre="BIJAGUA" />
+      <Distrito Id="10" Nombre="SANTO DOMINGO" />
+      <Distrito Id="11" Nombre="DELICIAS" />
+      <Distrito Id="12" Nombre="SANTA CLARA (PARTE ESTE)" />
+      <Distrito Id="13" Nombre="DOS RIOS O COLONIA MAYORGA" />
+      <Distrito Id="14" Nombre="BRASILIA" />
+      <Distrito Id="15" Nombre="PATA DE GALLO (PARTE NORTE)" />
+      <Distrito Id="16" Nombre="GUAYABAL O EL CARMEN" />
+      <Distrito Id="17" Nombre="SAN LUIS" />
+      <Distrito Id="18" Nombre="SAN JORGE O RIO NEGRO" />
+      <Distrito Id="20" Nombre="SAN RAMON" />
+      <Distrito Id="21" Nombre="AGUAS CLARAS" />
+      <Distrito Id="22" Nombre="BUENOS AIRES" />
+      <Distrito Id="23" Nombre="BIRMANIA" />
+      <Distrito Id="24" Nombre="LAS BRISAS (MIRAMAR)" />
+      <Distrito Id="25" Nombre="SANTA ROSA (CHIMURRIA ARRIBA)" />
+      <Distrito Id="26" Nombre="VILLANUEVA" />
+      <Distrito Id="27" Nombre="PORVENIR" />
+      <Distrito Id="28" Nombre="NAZARETH" />
+      <Distrito Id="29" Nombre="MORENO CA�AS" />
+      <Distrito Id="30" Nombre="COLONIA BLANCA" />
+      <Distrito Id="31" Nombre="LLANO AZUL" />
+      <Distrito Id="32" Nombre="SAN RAFAEL O CHIMURRIA ABAJO" />
+      <Distrito Id="33" Nombre="CARTAGOS SUR" />
+      <Distrito Id="34" Nombre="QUEBRADON" />
+      <Distrito Id="35" Nombre="LAS ARMENIAS" />
+      <Distrito Id="36" Nombre="CARTAGOS NORTE" />
+      <Distrito Id="37" Nombre="AMERICA" />
+      <Distrito Id="38" Nombre="BETANIA" />
+      <Distrito Id="39" Nombre="PROGRESO" />
+      <Distrito Id="40" Nombre="EL SALTO" />
+      <Distrito Id="41" Nombre="LAS FLORES" />
+      <Distrito Id="42" Nombre="RIO NEGRO" />
+      <Distrito Id="43" Nombre="HIGUERON (PARTE SUR)" />
+    </Canton>
+    <Canton Id="14" Nombre="LOS CHILES">
+      <Distrito Id="1" Nombre="LOS CHILES" />
+      <Distrito Id="2" Nombre="ARCO IRIS" />
+      <Distrito Id="3" Nombre="CA�O NEGRO" />
+      <Distrito Id="4" Nombre="SAN JOSE DEL AMPARO" />
+      <Distrito Id="5" Nombre="PORVENIR DE SAN JORGE" />
+      <Distrito Id="6" Nombre="MEDIO QUESO" />
+      <Distrito Id="8" Nombre="VERACRUZ" />
+      <Distrito Id="9" Nombre="CUATRO ESQUINAS" />
+      <Distrito Id="10" Nombre="SANTA ELENA DE ISLA CHICA" />
+      <Distrito Id="11" Nombre="COQUITAL" />
+      <Distrito Id="12" Nombre="MONTEALEGRE" />
+      <Distrito Id="13" Nombre="VASCONIA" />
+      <Distrito Id="14" Nombre="LOS LIRIOS" />
+      <Distrito Id="15" Nombre="SAN JORGE" />
+      <Distrito Id="16" Nombre="PAVON" />
+      <Distrito Id="17" Nombre="EL PARQUE" />
+      <Distrito Id="18" Nombre="COBANO" />
+      <Distrito Id="19" Nombre="CRISTO REY" />
+      <Distrito Id="20" Nombre="LA URRACA" />
+      <Distrito Id="21" Nombre="LA UNION" />
+      <Distrito Id="22" Nombre="LAS NUBES" />
+    </Canton>
+    <Canton Id="15" Nombre="GUATUSO">
+      <Distrito Id="1" Nombre="SAN RAFAEL" />
+      <Distrito Id="2" Nombre="PATASTILLO" />
+      <Distrito Id="3" Nombre="MARGARITA" />
+      <Distrito Id="4" Nombre="BUENAVISTA" />
+      <Distrito Id="5" Nombre="CABANGA DE COTE (PUEBLO NUEVO)" />
+      <Distrito Id="8" Nombre="PATASTE" />
+      <Distrito Id="9" Nombre="MAQUENCAL O PALMITAL" />
+      <Distrito Id="10" Nombre="TONJIBE" />
+      <Distrito Id="11" Nombre="SANTA FE" />
+      <Distrito Id="12" Nombre="TIALES" />
+      <Distrito Id="13" Nombre="KATIRA" />
+      <Distrito Id="14" Nombre="RIO CELESTE" />
+      <Distrito Id="15" Nombre="MONICO" />
+      <Distrito Id="16" Nombre="EL VALLE" />
+      <Distrito Id="17" Nombre="LA GARITA" />
+      <Distrito Id="18" Nombre="SILENCIO" />
+    </Canton>
+    <Canton Id="16" Nombre="RIO CUARTO">
+      <Distrito Id="1" Nombre="COLONIA AGRICOLA DEL TORO" />
+      <Distrito Id="2" Nombre="RIO CUARTO" />
+      <Distrito Id="3" Nombre="SAN RAFAEL DE RIO CUARTO(CUCARACHO" />
+      <Distrito Id="4" Nombre="LA TABLA" />
+      <Distrito Id="5" Nombre="LOS ANGELES" />
+      <Distrito Id="6" Nombre="SANTA RITA" />
+      <Distrito Id="7" Nombre="SANTA ISABEL" />
+      <Distrito Id="8" Nombre="LA VICTORIA  (PARTE SUR)" />
+      <Distrito Id="9" Nombre="SAN VICENTE" />
+      <Distrito Id="10" Nombre="LA ESPA�OLITA" />
+      <Distrito Id="11" Nombre="PATA DE GALLO (LOS ANGELES SUR)" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="3" Nombre="CARTAGO">
+    <Canton Id="1" Nombre="CENTRAL">
+      <Distrito Id="1" Nombre="OCCIDENTAL" />
+      <Distrito Id="2" Nombre="ORIENTAL" />
+      <Distrito Id="3" Nombre="EL CARMEN" />
+      <Distrito Id="4" Nombre="SAN NICOLAS" />
+      <Distrito Id="5" Nombre="SAN FRANCISCO" />
+      <Distrito Id="6" Nombre="LOURDES" />
+      <Distrito Id="7" Nombre="GUADALUPE O ARENILLA" />
+      <Distrito Id="8" Nombre="QUEBRADILLA" />
+      <Distrito Id="9" Nombre="BERMEJO" />
+      <Distrito Id="10" Nombre="COPALCHI" />
+      <Distrito Id="11" Nombre="CORRALILLO" />
+      <Distrito Id="12" Nombre="SAN JUAN NORTE" />
+      <Distrito Id="13" Nombre="SAN JUAN SUR" />
+      <Distrito Id="14" Nombre="SANTA ELENA ARRIBA" />
+      <Distrito Id="15" Nombre="LLANO DE LOS ANGELES" />
+      <Distrito Id="16" Nombre="SAN ANTONIO" />
+      <Distrito Id="17" Nombre="TIERRA BLANCA" />
+      <Distrito Id="18" Nombre="DULCE NOMBRE" />
+      <Distrito Id="19" Nombre="NAVARRO" />
+      <Distrito Id="20" Nombre="LLANO GRANDE" />
+      <Distrito Id="21" Nombre="SAN ISIDRO O EL ALUMBRE" />
+      <Distrito Id="22" Nombre="RIO CONEJO" />
+      <Distrito Id="23" Nombre="ALTO DE OCHOMOGO" />
+      <Distrito Id="24" Nombre="LA LIMA" />
+      <Distrito Id="25" Nombre="QUIRCOT" />
+      <Distrito Id="26" Nombre="AZAHAR (PENJAMO)" />
+      <Distrito Id="27" Nombre="PITAHAYA" />
+      <Distrito Id="28" Nombre="CABALLO BLANCO (SUR CARRETERA)" />
+      <Distrito Id="29" Nombre="SAN BLAS" />
+      <Distrito Id="30" Nombre="POLVORA O LOYOLA" />
+      <Distrito Id="31" Nombre="MANUEL DE JESUS JIMENEZ" />
+      <Distrito Id="33" Nombre="H.A. ASILO DE LA VEJEZ" />
+      <Distrito Id="34" Nombre="LOMA LARGA" />
+      <Distrito Id="35" Nombre="GUAYABAL (PARTE ESTE)" />
+    </Canton>
+    <Canton Id="2" Nombre="PARAISO">
+      <Distrito Id="1" Nombre="PARAISO" />
+      <Distrito Id="2" Nombre="BIRRISITO" />
+      <Distrito Id="3" Nombre="SANTIAGO" />
+      <Distrito Id="4" Nombre="EL YAS" />
+      <Distrito Id="5" Nombre="OROSI" />
+      <Distrito Id="6" Nombre="RIO MACHO" />
+      <Distrito Id="7" Nombre="PALOMO" />
+      <Distrito Id="8" Nombre="PURISIL" />
+      <Distrito Id="9" Nombre="CACHI" />
+      <Distrito Id="10" Nombre="URASCA" />
+      <Distrito Id="11" Nombre="LA FLOR" />
+      <Distrito Id="12" Nombre="LA LOAIZA" />
+      <Distrito Id="13" Nombre="UJARRAS" />
+      <Distrito Id="15" Nombre="AJENJAL" />
+      <Distrito Id="16" Nombre="ALTO DE ARAYA" />
+      <Distrito Id="17" Nombre="SAN JERONIMO O GUATUSO" />
+      <Distrito Id="18" Nombre="SAN MIGUEL O HAMACA (PARTE OESTE)" />
+      <Distrito Id="19" Nombre="LAPUENTE" />
+      <Distrito Id="20" Nombre="LLANOS DE SANTA LUCIA" />
+      <Distrito Id="21" Nombre="RIO REGADO" />
+      <Distrito Id="22" Nombre="ALEGRIA" />
+    </Canton>
+    <Canton Id="3" Nombre="LA UNION">
+      <Distrito Id="1" Nombre="TRES RIOS" />
+      <Distrito Id="2" Nombre="SAN DIEGO" />
+      <Distrito Id="3" Nombre="RIO AZUL" />
+      <Distrito Id="4" Nombre="SAN JUAN" />
+      <Distrito Id="5" Nombre="SAN RAFAEL" />
+      <Distrito Id="6" Nombre="CONCEPCION" />
+      <Distrito Id="7" Nombre="DULCE NOMBRE" />
+      <Distrito Id="8" Nombre="SAN RAMON" />
+      <Distrito Id="9" Nombre="SANTIAGO DEL MONTE" />
+      <Distrito Id="10" Nombre="QUEBRADA DEL FIERRO" />
+      <Distrito Id="11" Nombre="SALITRILLO" />
+      <Distrito Id="12" Nombre="RINCON MESEN ESTE" />
+      <Distrito Id="13" Nombre="SAN VICENTE" />
+      <Distrito Id="14" Nombre="EL CARMEN" />
+      <Distrito Id="15" Nombre="VILLAS DE AYARCO" />
+      <Distrito Id="16" Nombre="YERBABUENA" />
+      <Distrito Id="17" Nombre="LINDA VISTA" />
+      <Distrito Id="18" Nombre="SAN FRANCISCO" />
+      <Distrito Id="19" Nombre="LA CIMA" />
+    </Canton>
+    <Canton Id="4" Nombre="JIMENEZ">
+      <Distrito Id="1" Nombre="JUAN VI�AS" />
+      <Distrito Id="2" Nombre="ALTO VICTORIA" />
+      <Distrito Id="4" Nombre="SANTA MARTA" />
+      <Distrito Id="5" Nombre="EL NARANJO" />
+      <Distrito Id="8" Nombre="TUCURRIQUE" />
+      <Distrito Id="9" Nombre="PEJIBAYE" />
+      <Distrito Id="11" Nombre="SABANILLA" />
+      <Distrito Id="14" Nombre="ORIENTE" />
+      <Distrito Id="18" Nombre="SAN MARTIN" />
+      <Distrito Id="19" Nombre="HUMO" />
+      <Distrito Id="20" Nombre="LAS VUELTAS" />
+      <Distrito Id="21" Nombre="LOS ALPES" />
+    </Canton>
+    <Canton Id="5" Nombre="TURRIALBA">
+      <Distrito Id="1" Nombre="TURRIALBA" />
+      <Distrito Id="2" Nombre="EL PORO" />
+      <Distrito Id="3" Nombre="AQUIARES O LA ISLA" />
+      <Distrito Id="4" Nombre="SAN JUAN NORTE" />
+      <Distrito Id="5" Nombre="SAN JUAN SUR" />
+      <Distrito Id="6" Nombre="LAS AMERICAS" />
+      <Distrito Id="7" Nombre="FLORENCIA" />
+      <Distrito Id="9" Nombre="EL MORA" />
+      <Distrito Id="10" Nombre="SANTA ROSA" />
+      <Distrito Id="11" Nombre="COLORADO" />
+      <Distrito Id="12" Nombre="TUIS" />
+      <Distrito Id="13" Nombre="PACAYITAS" />
+      <Distrito Id="14" Nombre="LA SUIZA" />
+      <Distrito Id="15" Nombre="SAN JOAQUIN (CABEZA DE BUEY)" />
+      <Distrito Id="16" Nombre="ATIRRO" />
+      <Distrito Id="17" Nombre="GRANO DE ORO O XARA" />
+      <Distrito Id="18" Nombre="PLATANILLO" />
+      <Distrito Id="19" Nombre="PERALTA" />
+      <Distrito Id="20" Nombre="LA FLOR DE TRES EQUIS" />
+      <Distrito Id="21" Nombre="BONILLA ARRIBA" />
+      <Distrito Id="22" Nombre="PAVONES" />
+      <Distrito Id="23" Nombre="SITIO DE MATA" />
+      <Distrito Id="24" Nombre="CHITARIA" />
+      <Distrito Id="25" Nombre="SANTA CRUZ" />
+      <Distrito Id="26" Nombre="LA PASTORA" />
+      <Distrito Id="27" Nombre="SAN MARTIN" />
+      <Distrito Id="28" Nombre="SAN ANTONIO" />
+      <Distrito Id="29" Nombre="EL TORITO (PARTE ESTE)" />
+      <Distrito Id="30" Nombre="SANTA TERESITA (LAJAS)" />
+      <Distrito Id="31" Nombre="COLONIA GUAYABO" />
+      <Distrito Id="32" Nombre="TRES EQUIS" />
+      <Distrito Id="33" Nombre="MOLLEJONES" />
+      <Distrito Id="34" Nombre="ESMERALDA" />
+      <Distrito Id="35" Nombre="RECREO" />
+      <Distrito Id="38" Nombre="CIMARRONES" />
+      <Distrito Id="39" Nombre="PALOMO" />
+      <Distrito Id="40" Nombre="ESLABON" />
+      <Distrito Id="41" Nombre="CIEN MANZANAS" />
+      <Distrito Id="42" Nombre="BAJO PACUARE O SUR" />
+      <Distrito Id="43" Nombre="VERBENA NORTE" />
+      <Distrito Id="44" Nombre="SAN RAMON" />
+      <Distrito Id="45" Nombre="JABILLOS" />
+      <Distrito Id="46" Nombre="CALLE VARGAS" />
+      <Distrito Id="47" Nombre="ALTO VARAL" />
+      <Distrito Id="48" Nombre="NOCHEBUENA" />
+      <Distrito Id="49" Nombre="CARMEN" />
+      <Distrito Id="50" Nombre="SAN VICENTE" />
+      <Distrito Id="51" Nombre="FUENTE" />
+      <Distrito Id="52" Nombre="EL CARMEN" />
+      <Distrito Id="53" Nombre="SAUCE" />
+      <Distrito Id="55" Nombre="JICOTEA" />
+      <Distrito Id="56" Nombre="SAN RAFAEL" />
+      <Distrito Id="57" Nombre="SIMIRI�AC (JACUY)" />
+      <Distrito Id="58" Nombre="ALTO PACUARE ARRIBA (DUCLAC)" />
+      <Distrito Id="59" Nombre="JAKI (CAPILLA DOS CHIRRIPO ARRIBA)" />
+      <Distrito Id="60" Nombre="BOLORI �AC (CAPILLA UNO)" />
+      <Distrito Id="61" Nombre="NIMARI-�AC (RIO PEJE)" />
+      <Distrito Id="62" Nombre="NAMALDI" />
+      <Distrito Id="63" Nombre="TSIPIRI (QUEBRADA PLATANILLO)" />
+      <Distrito Id="64" Nombre="AZUL" />
+      <Distrito Id="65" Nombre="EL SILENCIO" />
+      <Distrito Id="66" Nombre="GUAYABO ABAJO" />
+      <Distrito Id="67" Nombre="CARMEN LYRA" />
+      <Distrito Id="68" Nombre="H.A. SAN BUENAVENTURA" />
+      <Distrito Id="69" Nombre="MARGOT" />
+      <Distrito Id="70" Nombre="CANADA" />
+      <Distrito Id="71" Nombre="LAS VIRTUDES" />
+      <Distrito Id="72" Nombre="LAS NUBES" />
+      <Distrito Id="73" Nombre="QUETZAL" />
+      <Distrito Id="74" Nombre="PACUARE" />
+      <Distrito Id="75" Nombre="JAMO (SITIO HILDA PARTE OESTE)" />
+      <Distrito Id="76" Nombre="ALTO PACUARE ABAJO (JEKUI)" />
+      <Distrito Id="77" Nombre="JACBATA (CERRO AZUL)" />
+    </Canton>
+    <Canton Id="6" Nombre="ALVARADO">
+      <Distrito Id="1" Nombre="PACAYAS" />
+      <Distrito Id="2" Nombre="IRAZU SUR" />
+      <Distrito Id="3" Nombre="CERVANTES" />
+      <Distrito Id="4" Nombre="CAPELLADES" />
+      <Distrito Id="5" Nombre="BUENA VISTA" />
+      <Distrito Id="6" Nombre="LLANO GRANDE" />
+      <Distrito Id="7" Nombre="SAN RAFAEL DE IRAZU" />
+      <Distrito Id="8" Nombre="SANTA TERESA" />
+      <Distrito Id="9" Nombre="LOURDES (CALLEJON)" />
+    </Canton>
+    <Canton Id="7" Nombre="OREAMUNO">
+      <Distrito Id="1" Nombre="SAN RAFAEL" />
+      <Distrito Id="2" Nombre="COT" />
+      <Distrito Id="3" Nombre="PASO ANCHO" />
+      <Distrito Id="4" Nombre="POTRERO CERRADO" />
+      <Distrito Id="5" Nombre="SAN JUAN DE CHICUA" />
+      <Distrito Id="6" Nombre="CIPRESES" />
+      <Distrito Id="7" Nombre="SANTA ROSA" />
+      <Distrito Id="8" Nombre="SAN PABLO" />
+      <Distrito Id="9" Nombre="SAN GERARDO NORTE DEL IRAZU" />
+      <Distrito Id="10" Nombre="SAN GERARDO SUR DE PASQUI" />
+      <Distrito Id="11" Nombre="ALTO CERRILLOS(CORAZON DE JESUS)" />
+      <Distrito Id="12" Nombre="BOSQUE" />
+    </Canton>
+    <Canton Id="8" Nombre="EL GUARCO">
+      <Distrito Id="1" Nombre="EL TEJAR" />
+      <Distrito Id="2" Nombre="SAN ISIDRO" />
+      <Distrito Id="3" Nombre="PALMITAL" />
+      <Distrito Id="4" Nombre="LA ESTRELLA" />
+      <Distrito Id="5" Nombre="TOBOSI" />
+      <Distrito Id="6" Nombre="BARRIO NUEVO" />
+      <Distrito Id="7" Nombre="TABLON" />
+      <Distrito Id="8" Nombre="PATIO DE AGUA" />
+      <Distrito Id="10" Nombre="CA�ON (PARTE NORTE)" />
+      <Distrito Id="11" Nombre="PURIRES (PARTE OESTE)" />
+      <Distrito Id="12" Nombre="CARAGRAL" />
+      <Distrito Id="13" Nombre="LA CANGREJA" />
+      <Distrito Id="14" Nombre="VARA DE ROBLE" />
+      <Distrito Id="15" Nombre="ASUNCION (CANGREJAL)" />
+      <Distrito Id="16" Nombre="SABANA GRANDE" />
+      <Distrito Id="17" Nombre="C.P. JORGE DEBRAVO" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="4" Nombre="HEREDIA">
+    <Canton Id="1" Nombre="CENTRAL">
+      <Distrito Id="1" Nombre="HEREDIA" />
+      <Distrito Id="3" Nombre="MERCEDES NORTE" />
+      <Distrito Id="4" Nombre="MERCEDES SUR" />
+      <Distrito Id="5" Nombre="SAN FRANCISCO" />
+      <Distrito Id="6" Nombre="BARREAL (SAN JOSE)" />
+      <Distrito Id="7" Nombre="VARABLANCA" />
+      <Distrito Id="8" Nombre="LOS LAGOS" />
+      <Distrito Id="9" Nombre="BERNARDO BENAVIDES (INVU)" />
+      <Distrito Id="10" Nombre="LA AURORA (PARTE SUR)" />
+      <Distrito Id="15" Nombre="LAGUNILLA" />
+      <Distrito Id="16" Nombre="SAN RAFAEL DE VARABLANCA" />
+      <Distrito Id="17" Nombre="GUARARI" />
+    </Canton>
+    <Canton Id="2" Nombre="BARVA">
+      <Distrito Id="1" Nombre="BARVA" />
+      <Distrito Id="2" Nombre="SAN PEDRO" />
+      <Distrito Id="3" Nombre="SAN JOSE DE LA MONTA�A" />
+      <Distrito Id="4" Nombre="SAN PABLO" />
+      <Distrito Id="5" Nombre="SAN ROQUE" />
+      <Distrito Id="6" Nombre="SANTA LUCIA" />
+      <Distrito Id="7" Nombre="SACRAMENTO" />
+      <Distrito Id="8" Nombre="PASO LLANO O PORROSATI" />
+      <Distrito Id="9" Nombre="BUENAVISTA (ALTO DE ABRA)" />
+      <Distrito Id="10" Nombre="PUENTE DE SALAS" />
+      <Distrito Id="11" Nombre="SAN MIGUEL" />
+      <Distrito Id="12" Nombre="H.A. REINA DE LOS ANGELES" />
+    </Canton>
+    <Canton Id="3" Nombre="SANTO DOMINGO">
+      <Distrito Id="1" Nombre="SANTO DOMINGO" />
+      <Distrito Id="2" Nombre="SAN VICENTE" />
+      <Distrito Id="3" Nombre="SAN MIGUEL" />
+      <Distrito Id="4" Nombre="LOS ANGELES" />
+      <Distrito Id="5" Nombre="SAN LUIS" />
+      <Distrito Id="6" Nombre="PARACITO" />
+      <Distrito Id="7" Nombre="SANTO TOMAS" />
+      <Distrito Id="8" Nombre="SANTA ROSA" />
+      <Distrito Id="9" Nombre="SOCORRO" />
+      <Distrito Id="12" Nombre="CASTILLA (EL CARMEN)" />
+    </Canton>
+    <Canton Id="4" Nombre="SANTA BARBARA">
+      <Distrito Id="1" Nombre="SANTA BARBARA" />
+      <Distrito Id="2" Nombre="SAN PEDRO" />
+      <Distrito Id="3" Nombre="SAN JUAN ABAJO" />
+      <Distrito Id="4" Nombre="JESUS" />
+      <Distrito Id="5" Nombre="BIRRI" />
+      <Distrito Id="6" Nombre="SANTO DOMINGO DEL ROBLE" />
+      <Distrito Id="7" Nombre="SETILLAL" />
+      <Distrito Id="8" Nombre="CHAGUITE" />
+      <Distrito Id="9" Nombre="LOS CARTAGOS" />
+      <Distrito Id="10" Nombre="SAN BOSCO" />
+    </Canton>
+    <Canton Id="5" Nombre="SAN RAFAEL">
+      <Distrito Id="1" Nombre="SAN RAFAEL" />
+      <Distrito Id="2" Nombre="SAN JOSECITO" />
+      <Distrito Id="3" Nombre="SANTIAGO" />
+      <Distrito Id="4" Nombre="LOS ANGELES" />
+      <Distrito Id="5" Nombre="CONCEPCION" />
+      <Distrito Id="6" Nombre="GETSEMANI (PARTE ESTE)" />
+      <Distrito Id="7" Nombre="MONTECITO" />
+      <Distrito Id="8" Nombre="LA SUIZA" />
+      <Distrito Id="9" Nombre="SAN MIGUEL O PALMAR (ESTE)" />
+    </Canton>
+    <Canton Id="6" Nombre="SAN ISIDRO">
+      <Distrito Id="1" Nombre="SAN ISIDRO" />
+      <Distrito Id="2" Nombre="SAN FRANCISCO" />
+      <Distrito Id="3" Nombre="SAN JOSECITO" />
+      <Distrito Id="4" Nombre="CONCEPCION" />
+      <Distrito Id="5" Nombre="SANTA ELENA" />
+      <Distrito Id="6" Nombre="SANTA CECILIA (ALHAJAS)" />
+      <Distrito Id="7" Nombre="C.P. SAN ISIDRO JUVENIL ZURQUI" />
+      <Distrito Id="8" Nombre="H.A. SE�ORA DE LOS ANGELES" />
+    </Canton>
+    <Canton Id="7" Nombre="BELEN">
+      <Distrito Id="1" Nombre="SAN ANTONIO" />
+      <Distrito Id="2" Nombre="LA RIBERA" />
+      <Distrito Id="3" Nombre="LA ASUNCION" />
+    </Canton>
+    <Canton Id="8" Nombre="FLORES">
+      <Distrito Id="1" Nombre="SAN JOAQUIN" />
+      <Distrito Id="2" Nombre="SAN LORENZO" />
+      <Distrito Id="3" Nombre="LLORENTE" />
+    </Canton>
+    <Canton Id="9" Nombre="SAN PABLO">
+      <Distrito Id="1" Nombre="SAN PABLO" />
+      <Distrito Id="2" Nombre="RINCON DE RICARDO" />
+      <Distrito Id="3" Nombre="MIRAFLORES" />
+      <Distrito Id="4" Nombre="H.A.ALFRED Y DELIA GONZALEZ FLORES" />
+    </Canton>
+    <Canton Id="10" Nombre="SARAPIQUI">
+      <Distrito Id="1" Nombre="PUERTO VIEJO" />
+      <Distrito Id="2" Nombre="SAN JOSE DE RIO SARAPIQUI" />
+      <Distrito Id="3" Nombre="LA VIRGEN" />
+      <Distrito Id="4" Nombre="PANGOLA O SAN JUAN" />
+      <Distrito Id="5" Nombre=" LLANO GRANDE" />
+      <Distrito Id="6" Nombre="SAN RAMON" />
+      <Distrito Id="7" Nombre="LOS ANGELES DE COLONIA CARVAJAL" />
+      <Distrito Id="8" Nombre="LA CEIBA" />
+      <Distrito Id="9" Nombre="LAS HORQUETAS" />
+      <Distrito Id="10" Nombre="RIO FRIO" />
+      <Distrito Id="11" Nombre="EL TIGRE SUR" />
+      <Distrito Id="12" Nombre="PUEBLO NUEVO" />
+      <Distrito Id="13" Nombre="CHILAMATE ESTE ALTOS" />
+      <Distrito Id="14" Nombre="SAN JULIAN" />
+      <Distrito Id="15" Nombre="LA RAMBLA" />
+      <Distrito Id="16" Nombre="FINCA DIEZ" />
+      <Distrito Id="17" Nombre="LOS ARBOLITOS (PARTE ESTE)" />
+      <Distrito Id="18" Nombre="FINCA DOS" />
+      <Distrito Id="19" Nombre="COLONIA CUBUJUQUI" />
+      <Distrito Id="20" Nombre="CERRO NEGRO(PARTE SUR)" />
+      <Distrito Id="21" Nombre="ZAPOTE" />
+      <Distrito Id="22" Nombre="COLONIA SAN JOSE" />
+      <Distrito Id="23" Nombre="COLONIA VICTORIA" />
+      <Distrito Id="24" Nombre="EL PALMAR" />
+      <Distrito Id="25" Nombre="LAS MARIAS" />
+      <Distrito Id="26" Nombre="GOLFITO" />
+      <Distrito Id="27" Nombre="COLONIA VILLALOBOS" />
+      <Distrito Id="28" Nombre="SAN BERNARDINO" />
+      <Distrito Id="29" Nombre="ESTERO GRANDE" />
+      <Distrito Id="30" Nombre="LA  CHAVES" />
+      <Distrito Id="31" Nombre="EL ROBLE" />
+      <Distrito Id="32" Nombre="TIRIMBINA" />
+      <Distrito Id="33" Nombre="LA CONQUISTA" />
+      <Distrito Id="34" Nombre="GUARIA" />
+      <Distrito Id="35" Nombre="FINCA CINCO (CHIRRIPO)" />
+      <Distrito Id="36" Nombre="HUETARES" />
+      <Distrito Id="37" Nombre="LA ALDEA" />
+      <Distrito Id="38" Nombre="ANGELES DE RIO SARAPIQUI" />
+      <Distrito Id="39" Nombre="EL MORTERO" />
+      <Distrito Id="40" Nombre="COLONIA LA GATA" />
+      <Distrito Id="41" Nombre="NARANJAL" />
+      <Distrito Id="42" Nombre="SANTA DELIA" />
+      <Distrito Id="43" Nombre="FINCA AGUA" />
+      <Distrito Id="44" Nombre="RANCHO CHILAMATE" />
+      <Distrito Id="45" Nombre="H.A. SAN AGUSTIN" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="5" Nombre="GUANACASTE">
+    <Canton Id="1" Nombre="LIBERIA">
+      <Distrito Id="1" Nombre="LIBERIA" />
+      <Distrito Id="2" Nombre="GUARDIA" />
+      <Distrito Id="3" Nombre="CA�AS DULCES" />
+      <Distrito Id="4" Nombre="QUEBRADA GRANDE O GARCIA FLAMENCO" />
+      <Distrito Id="5" Nombre="CURUBANDE" />
+      <Distrito Id="6" Nombre="BUENAVISTA DE CA�AS DULCES" />
+      <Distrito Id="7" Nombre="IRIGARAY" />
+      <Distrito Id="8" Nombre="LAS LILAS" />
+      <Distrito Id="9" Nombre="CERECEDA (GUADALUPE)" />
+      <Distrito Id="10" Nombre="SALTO OESTE" />
+      <Distrito Id="11" Nombre="C.P. CALLE REAL (MOD. B CASITAS)" />
+      <Distrito Id="12" Nombre="H.A. LIBERIA" />
+      <Distrito Id="13" Nombre="BARRIO LA CRUZ" />
+      <Distrito Id="14" Nombre="CORAZON DE JESUS" />
+      <Distrito Id="15" Nombre="LA VICTORIA" />
+      <Distrito Id="16" Nombre="SAN ROQUE" />
+      <Distrito Id="17" Nombre="SANTA MARIA" />
+      <Distrito Id="19" Nombre="EL GALLO" />
+      <Distrito Id="20" Nombre="RODEITO" />
+      <Distrito Id="21" Nombre="MORACIA" />
+      <Distrito Id="22" Nombre="C.P. CALLE REAL (MODULO D1-D2)" />
+      <Distrito Id="23" Nombre="CAPULIN" />
+      <Distrito Id="24" Nombre="C.P. CALLE REAL (MODULO D3-D4)" />
+    </Canton>
+    <Canton Id="2" Nombre="NICOYA">
+      <Distrito Id="1" Nombre="NICOYA" />
+      <Distrito Id="2" Nombre="QUIRIMAN" />
+      <Distrito Id="3" Nombre="SABANA GRANDE" />
+      <Distrito Id="4" Nombre="JUAN DIAZ" />
+      <Distrito Id="5" Nombre="SAN MARTIN" />
+      <Distrito Id="6" Nombre="SAN JOAQUIN" />
+      <Distrito Id="7" Nombre="DULCE NOMBRE (GARITA)" />
+      <Distrito Id="8" Nombre="CAIMITAL" />
+      <Distrito Id="10" Nombre="SAN FERNANDO" />
+      <Distrito Id="11" Nombre="MAQUENCO" />
+      <Distrito Id="12" Nombre="LA MANSION" />
+      <Distrito Id="13" Nombre="MATINA" />
+      <Distrito Id="14" Nombre="CABALLITO" />
+      <Distrito Id="16" Nombre="LA VIGIA" />
+      <Distrito Id="17" Nombre="COPAL" />
+      <Distrito Id="18" Nombre="SANTA ELENA (PARTE OESTE)" />
+      <Distrito Id="19" Nombre="QUEBRADA HONDA" />
+      <Distrito Id="20" Nombre="PUEBLO VIEJO" />
+      <Distrito Id="21" Nombre="SANTA ANA" />
+      <Distrito Id="22" Nombre="CERRO NEGRO" />
+      <Distrito Id="23" Nombre="LA ESPERANZA NORTE O DE JUAN DIAZ" />
+      <Distrito Id="26" Nombre="NARANJAL" />
+      <Distrito Id="27" Nombre="LA VIRGINIA DE GAMALOTAL" />
+      <Distrito Id="28" Nombre="EL JOBO NORTE" />
+      <Distrito Id="30" Nombre="SAN ANTONIO" />
+      <Distrito Id="31" Nombre="CORRALILLO" />
+      <Distrito Id="32" Nombre="PUERTO HUMO" />
+      <Distrito Id="33" Nombre="SAN LAZARO" />
+      <Distrito Id="34" Nombre="SAN VICENTE ABAJO" />
+      <Distrito Id="35" Nombre="ZAPOTE" />
+      <Distrito Id="36" Nombre="POZO DE AGUA" />
+      <Distrito Id="37" Nombre="BOCAS DE NOSARA" />
+      <Distrito Id="39" Nombre="EL ROBLAR" />
+      <Distrito Id="40" Nombre="EL CA�AL" />
+      <Distrito Id="41" Nombre="NAMBI" />
+      <Distrito Id="42" Nombre="CUAJINIQUIL" />
+      <Distrito Id="43" Nombre="FLORIDA" />
+      <Distrito Id="44" Nombre="MORACIA" />
+      <Distrito Id="45" Nombre="RIO MONTA�A" />
+      <Distrito Id="47" Nombre="TERCIOPELO" />
+      <Distrito Id="49" Nombre="TALOLINGA" />
+      <Distrito Id="51" Nombre="CURIME" />
+      <Distrito Id="52" Nombre="BELEN DE NOSARITA" />
+      <Distrito Id="53" Nombre="CUESTA GRANDE" />
+      <Distrito Id="56" Nombre="MONTE GALAN" />
+      <Distrito Id="57" Nombre="EL ROSARIO" />
+      <Distrito Id="58" Nombre="GARZA" />
+      <Distrito Id="59" Nombre="IGUANITA" />
+      <Distrito Id="60" Nombre="SAMARA" />
+      <Distrito Id="61" Nombre="BARCO QUEBRADO" />
+      <Distrito Id="62" Nombre="BARRAHONDA O NACAOME" />
+      <Distrito Id="64" Nombre="SILENCIO" />
+      <Distrito Id="65" Nombre="PILAS BLANCAS" />
+      <Distrito Id="66" Nombre="CONCEPCION DE PLATANILLO" />
+      <Distrito Id="67" Nombre="SANTO DOMINGO" />
+      <Distrito Id="71" Nombre="SAN JUAN (PARTE NORTE)" />
+      <Distrito Id="72" Nombre="LOMA BONITA O LAS CASITAS" />
+      <Distrito Id="73" Nombre="GAMALOTAL" />
+      <Distrito Id="74" Nombre="JUNTAS" />
+      <Distrito Id="76" Nombre="LA ESPERANZA SUR" />
+      <Distrito Id="77" Nombre="DELICIAS DE GARZA" />
+      <Distrito Id="79" Nombre="EL FLOR (ROJAS)" />
+      <Distrito Id="80" Nombre="MATAMBUGUITO" />
+      <Distrito Id="81" Nombre="CASITAS" />
+      <Distrito Id="82" Nombre="GARCIMU�OZ" />
+      <Distrito Id="83" Nombre="ACOYAPA" />
+      <Distrito Id="84" Nombre="H.A. SAN BLAS" />
+      <Distrito Id="85" Nombre="MONTA�ITA" />
+      <Distrito Id="86" Nombre="RIO GRANDE" />
+    </Canton>
+    <Canton Id="3" Nombre="SANTA CRUZ">
+      <Distrito Id="1" Nombre="SANTA CRUZ" />
+      <Distrito Id="2" Nombre="ARADO" />
+      <Distrito Id="3" Nombre="LAGUNILLA" />
+      <Distrito Id="4" Nombre="SAN JUAN" />
+      <Distrito Id="5" Nombre="BERNABELA" />
+      <Distrito Id="6" Nombre="CACAO" />
+      <Distrito Id="7" Nombre="BOLSON" />
+      <Distrito Id="8" Nombre="SANTA BARBARA" />
+      <Distrito Id="9" Nombre="PARAISO O RIO SEQUITO" />
+      <Distrito Id="10" Nombre="VEINTISIETE DE ABRIL" />
+      <Distrito Id="11" Nombre="RIO SECO" />
+      <Distrito Id="12" Nombre="MARBELLA" />
+      <Distrito Id="13" Nombre="VILLARREAL" />
+      <Distrito Id="14" Nombre="SANTA ROSA" />
+      <Distrito Id="15" Nombre="SAN FRANCISCO" />
+      <Distrito Id="16" Nombre="SAN JOSE DE PINILLA" />
+      <Distrito Id="17" Nombre="HATILLO" />
+      <Distrito Id="18" Nombre="TEMPATE" />
+      <Distrito Id="19" Nombre="CARTAGENA" />
+      <Distrito Id="20" Nombre="PORTEGOLPE" />
+      <Distrito Id="21" Nombre="HUACAS" />
+      <Distrito Id="22" Nombre="MATAPALO" />
+      <Distrito Id="23" Nombre="FLORIDA" />
+      <Distrito Id="24" Nombre="DIRIA O RIO GRANDE" />
+      <Distrito Id="25" Nombre="SAN JUANILLO" />
+      <Distrito Id="26" Nombre="VISTAMAR (CENIZOSA)" />
+      <Distrito Id="27" Nombre="POTRERO" />
+      <Distrito Id="28" Nombre="OSTIONAL" />
+      <Distrito Id="29" Nombre="SAN JOSE DE LA MONTA�A" />
+      <Distrito Id="30" Nombre="EL SOCORRO" />
+      <Distrito Id="31" Nombre="PALMARES" />
+      <Distrito Id="32" Nombre="LORENA" />
+      <Distrito Id="33" Nombre="RIO TABACO ARRIBA" />
+      <Distrito Id="34" Nombre="JAZMINAL" />
+      <Distrito Id="35" Nombre="BRASILITO" />
+      <Distrito Id="37" Nombre="DELICIAS" />
+      <Distrito Id="38" Nombre="GARITA NUEVA" />
+      <Distrito Id="39" Nombre="LIMON" />
+      <Distrito Id="40" Nombre="EL LLANO (EL CHORRO)" />
+      <Distrito Id="41" Nombre="ORTEGA" />
+      <Distrito Id="42" Nombre="TALOLINGUITA" />
+      <Distrito Id="43" Nombre="SAN PEDRO" />
+      <Distrito Id="44" Nombre="GUAITIL" />
+      <Distrito Id="45" Nombre="H.A. NUESTRA SE�ORA DEL ROSARIO" />
+      <Distrito Id="46" Nombre="CHIRCO" />
+    </Canton>
+    <Canton Id="4" Nombre="BAGACES">
+      <Distrito Id="1" Nombre="BAGACES" />
+      <Distrito Id="2" Nombre="MONTANO" />
+      <Distrito Id="3" Nombre="BEBEDERO (NORTE DEL RIO)" />
+      <Distrito Id="4" Nombre="RIO NARANJO" />
+      <Distrito Id="5" Nombre="CUIPILAPA" />
+      <Distrito Id="6" Nombre="LA FORTUNA" />
+      <Distrito Id="8" Nombre="GUAYABO" />
+      <Distrito Id="9" Nombre="SALITRAL" />
+      <Distrito Id="10" Nombre="SAN BERNARDO" />
+      <Distrito Id="11" Nombre="MONTENEGRO" />
+      <Distrito Id="13" Nombre="PUEBLO NUEVO" />
+      <Distrito Id="14" Nombre="PIJIJE" />
+      <Distrito Id="16" Nombre="RIO CHIQUITO" />
+      <Distrito Id="17" Nombre="SAN ISIDRO DE LIMONAL" />
+      <Distrito Id="18" Nombre="BAGATZI" />
+      <Distrito Id="19" Nombre="LLANOS DE CORTES" />
+      <Distrito Id="20" Nombre="AGUA CALIENTE" />
+    </Canton>
+    <Canton Id="5" Nombre="CARRILLO">
+      <Distrito Id="1" Nombre="FILADELFIA" />
+      <Distrito Id="2" Nombre="PALMIRA" />
+      <Distrito Id="3" Nombre="COMUNIDAD" />
+      <Distrito Id="4" Nombre="SARDINAL" />
+      <Distrito Id="5" Nombre="SAN BLAS" />
+      <Distrito Id="6" Nombre="ARTOLA" />
+      <Distrito Id="7" Nombre="BELEN" />
+      <Distrito Id="8" Nombre="SANTA ANA" />
+      <Distrito Id="9" Nombre="SANTO DOMINGO" />
+      <Distrito Id="10" Nombre="LOS PLANES" />
+      <Distrito Id="11" Nombre="EL COCO" />
+      <Distrito Id="12" Nombre="RIO CA�AS NUEVO" />
+      <Distrito Id="13" Nombre="LA GUINEA" />
+      <Distrito Id="14" Nombre="CORRALILLO" />
+      <Distrito Id="15" Nombre="PANAMA O CACIQUE" />
+      <Distrito Id="16" Nombre="CASTILLA DE ORO" />
+      <Distrito Id="17" Nombre="COYOLITO" />
+      <Distrito Id="18" Nombre="NUEVO COLON" />
+      <Distrito Id="19" Nombre="SANTA RITA" />
+      <Distrito Id="20" Nombre="LIBERTAD (HUACAS)" />
+      <Distrito Id="21" Nombre="PASO TEMPISQUE (PARTE OESTE)" />
+      <Distrito Id="22" Nombre="ALTOS DEL ROBLE" />
+    </Canton>
+    <Canton Id="6" Nombre="CA�AS">
+      <Distrito Id="1" Nombre="CA�AS" />
+      <Distrito Id="2" Nombre="HIGUERON ABAJO" />
+      <Distrito Id="3" Nombre="PALMIRA" />
+      <Distrito Id="4" Nombre="BEBEDERO (SUR DEL RIO)" />
+      <Distrito Id="5" Nombre="POROZAL" />
+      <Distrito Id="6" Nombre="NUEVA GUATEMALA" />
+      <Distrito Id="7" Nombre="SAN MIGUEL O CUATRO ESQUINAS" />
+      <Distrito Id="8" Nombre="NISPERO (PUERTO ALEGRE)" />
+      <Distrito Id="9" Nombre="BUENOS AIRES LA GOTERA(ALTO LAJAS)" />
+      <Distrito Id="10" Nombre="HOTEL" />
+      <Distrito Id="11" Nombre="SANDILLAL" />
+      <Distrito Id="12" Nombre="EL VERGEL" />
+      <Distrito Id="13" Nombre="SAN JUAN" />
+      <Distrito Id="14" Nombre="JABILLA ABAJO" />
+      <Distrito Id="15" Nombre="SAN MARTIN" />
+      <Distrito Id="16" Nombre="LAS PALMAS" />
+      <Distrito Id="17" Nombre="H.A MARY BLANCO" />
+      <Distrito Id="18" Nombre="URB. LAS CA�AS" />
+    </Canton>
+    <Canton Id="7" Nombre="ABANGARES">
+      <Distrito Id="1" Nombre="LAS JUNTAS" />
+      <Distrito Id="2" Nombre="SANTA LUCIA" />
+      <Distrito Id="3" Nombre="LA SIERRA (LAS MINAS)" />
+      <Distrito Id="4" Nombre="ALTO CEBADILLA" />
+      <Distrito Id="5" Nombre="LA PALMA" />
+      <Distrito Id="6" Nombre="EL DOS DE ABANGARES (BAJO CHARIO)" />
+      <Distrito Id="7" Nombre="SAN JUAN GRANDE" />
+      <Distrito Id="8" Nombre="POZO AZUL" />
+      <Distrito Id="9" Nombre="COLORADO" />
+      <Distrito Id="10" Nombre="SAN BUENAVENTURA" />
+      <Distrito Id="11" Nombre="SAN JOAQUIN" />
+      <Distrito Id="12" Nombre="MONTE POTRERO O PUEBLO NUEVO" />
+      <Distrito Id="13" Nombre="CAMPOS DE ORO DE ABANGARES" />
+      <Distrito Id="14" Nombre="SAN RAFAEL (DESPACIO)" />
+      <Distrito Id="15" Nombre="LOS ANGELES (PORTONES)" />
+      <Distrito Id="16" Nombre="HIGUERILLAS" />
+      <Distrito Id="17" Nombre="MATAPALO" />
+      <Distrito Id="18" Nombre="BARRIO JESUS" />
+      <Distrito Id="19" Nombre="RANCHO ANIA O LOURDES (PARTE)" />
+      <Distrito Id="20" Nombre="CA�ITAS" />
+      <Distrito Id="21" Nombre="COYOLITO DE ABANGARES O LA PE�A" />
+      <Distrito Id="22" Nombre="TORNOS" />
+      <Distrito Id="23" Nombre="H.A. SAN JORGE" />
+      <Distrito Id="24" Nombre="RAIZAL" />
+      <Distrito Id="25" Nombre="LA CONCHA (CONCEPCION)" />
+      <Distrito Id="26" Nombre="PE�AS BLANCAS" />
+    </Canton>
+    <Canton Id="8" Nombre="TILARAN">
+      <Distrito Id="1" Nombre="TILARAN" />
+      <Distrito Id="2" Nombre="QUEBRADA GRANDE" />
+      <Distrito Id="3" Nombre="SAN RAMON" />
+      <Distrito Id="4" Nombre="CABECERAS DE CA�AS" />
+      <Distrito Id="5" Nombre="TRONADORA" />
+      <Distrito Id="6" Nombre="AGUACATE (PARTE OESTE)" />
+      <Distrito Id="7" Nombre="LOS ANGELES (SANTA ROSA)" />
+      <Distrito Id="8" Nombre="PARCE. QUEBRADA AZUL (LINDA VISTA)" />
+      <Distrito Id="9" Nombre="LIBANO" />
+      <Distrito Id="10" Nombre="SAN JOSE" />
+      <Distrito Id="11" Nombre="TIERRAS MORENAS" />
+      <Distrito Id="12" Nombre="FLORIDA (PATIOS)" />
+      <Distrito Id="13" Nombre="SAN MIGUEL" />
+      <Distrito Id="14" Nombre="ARENAL NUEVO" />
+      <Distrito Id="15" Nombre="SOLANIA" />
+      <Distrito Id="16" Nombre="LAS NUBES DE RIO CHIQUITO" />
+      <Distrito Id="17" Nombre="RIO CHIQUITO" />
+      <Distrito Id="18" Nombre="LA UNION" />
+      <Distrito Id="19" Nombre="RIO PIEDRAS (GUADALAJARA)" />
+      <Distrito Id="21" Nombre="VIEJO ARENAL" />
+      <Distrito Id="22" Nombre="SILENCIO" />
+      <Distrito Id="23" Nombre="SAN LUIS" />
+      <Distrito Id="24" Nombre="H.A. TILARAN" />
+    </Canton>
+    <Canton Id="9" Nombre="NANDAYURE">
+      <Distrito Id="1" Nombre="CARMONA" />
+      <Distrito Id="2" Nombre="SANTA RITA" />
+      <Distrito Id="3" Nombre="SAN ANTONIO DE ZAPOTAL" />
+      <Distrito Id="4" Nombre="SAN PABLO" />
+      <Distrito Id="5" Nombre="BELLAVISTA" />
+      <Distrito Id="6" Nombre="BEJUCO" />
+      <Distrito Id="7" Nombre="QUEBRADA SECA O PILAS DE BEJUCO" />
+      <Distrito Id="8" Nombre="SAN PEDRO" />
+      <Distrito Id="9" Nombre="EL CARMEN" />
+      <Distrito Id="10" Nombre="CERRO AZUL" />
+      <Distrito Id="11" Nombre="LOS ANGELES" />
+      <Distrito Id="12" Nombre="COROZALITO" />
+      <Distrito Id="13" Nombre="SAN FRANCISCO DE COYOTE" />
+      <Distrito Id="14" Nombre="JABILLOS" />
+      <Distrito Id="16" Nombre="TACANIS" />
+      <Distrito Id="17" Nombre="SAN RAMON" />
+      <Distrito Id="18" Nombre="PAVONES" />
+      <Distrito Id="19" Nombre="QUEBRADA NANDO" />
+      <Distrito Id="20" Nombre="QUEBRADA GRANDE" />
+      <Distrito Id="21" Nombre="ZAPOTE O MORAVIA" />
+      <Distrito Id="23" Nombre="COLONIA DEL VALLE" />
+      <Distrito Id="24" Nombre="CACAO" />
+      <Distrito Id="25" Nombre="RIO DE ORO" />
+      <Distrito Id="26" Nombre="JABILLA" />
+      <Distrito Id="27" Nombre="H.A. SAGRADO CORAZON DE JESUS" />
+    </Canton>
+    <Canton Id="10" Nombre="LA CRUZ">
+      <Distrito Id="1" Nombre="LA CRUZ" />
+      <Distrito Id="2" Nombre="COPALCHI" />
+      <Distrito Id="3" Nombre="TEMPATAL" />
+      <Distrito Id="4" Nombre="SANTA CECILIA" />
+      <Distrito Id="5" Nombre="LA GARITA" />
+      <Distrito Id="6" Nombre="CUAJINIQUIL DE SANTA ELENA" />
+      <Distrito Id="7" Nombre="ARMENIA" />
+      <Distrito Id="8" Nombre="GUAPINOL" />
+      <Distrito Id="9" Nombre="LAS BRISAS" />
+      <Distrito Id="10" Nombre="LA VIRGEN" />
+      <Distrito Id="11" Nombre="EL PORVENIR (SANTA ROGELIA)" />
+      <Distrito Id="15" Nombre="JOBO (COLONIA GIL TABLADA)" />
+      <Distrito Id="16" Nombre="LOS ANDES" />
+      <Distrito Id="17" Nombre="LAS VUELTAS" />
+      <Distrito Id="18" Nombre="CAOBA" />
+      <Distrito Id="19" Nombre="BELICE" />
+      <Distrito Id="20" Nombre="PALMARES" />
+    </Canton>
+    <Canton Id="11" Nombre="HOJANCHA">
+      <Distrito Id="1" Nombre="HOJANCHA" />
+      <Distrito Id="3" Nombre="LA MARAVILLA" />
+      <Distrito Id="4" Nombre="PILANGOSTA" />
+      <Distrito Id="5" Nombre="LAJAS" />
+      <Distrito Id="6" Nombre="BETANIA O JOBO" />
+      <Distrito Id="7" Nombre="CUESTA ROJA" />
+      <Distrito Id="9" Nombre="MONTE ROMO" />
+      <Distrito Id="10" Nombre="ARBOLITOS (SANTA MARTA)" />
+      <Distrito Id="11" Nombre="MATAMBU" />
+      <Distrito Id="12" Nombre="PITA RAYADA" />
+      <Distrito Id="13" Nombre="HUACAS" />
+      <Distrito Id="16" Nombre="ESTRADA" />
+      <Distrito Id="17" Nombre="PUERTO CARRILLO" />
+      <Distrito Id="18" Nombre="LOS ANGELES NORTE" />
+      <Distrito Id="19" Nombre="ALTOS DEL SOCORRO" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="6" Nombre="PUNTARENAS">
+    <Canton Id="1" Nombre="CENTRAL">
+      <Distrito Id="1" Nombre="PUNTARENAS" />
+      <Distrito Id="2" Nombre="CERRO PLANO" />
+      <Distrito Id="4" Nombre="PITAHAYA" />
+      <Distrito Id="5" Nombre="SARDINAL DE ACAPULCO" />
+      <Distrito Id="6" Nombre="CHOMES" />
+      <Distrito Id="7" Nombre="SARMIENTO" />
+      <Distrito Id="8" Nombre="LAGARTO SUR" />
+      <Distrito Id="9" Nombre="LEPANTO" />
+      <Distrito Id="10" Nombre="MONTA�A GRANDE" />
+      <Distrito Id="11" Nombre="JICARAL" />
+      <Distrito Id="12" Nombre="PAQUERA" />
+      <Distrito Id="13" Nombre="TAMBOR" />
+      <Distrito Id="14" Nombre="MANZANILLO DEL GOLFO" />
+      <Distrito Id="16" Nombre="NANCITE (SAN ANTONIO)" />
+      <Distrito Id="17" Nombre="BARRANCA" />
+      <Distrito Id="18" Nombre="SAN MIGUEL DE BARRANCA" />
+      <Distrito Id="19" Nombre="COROZAL" />
+      <Distrito Id="20" Nombre="VAINILLA" />
+      <Distrito Id="21" Nombre="JUAN DE LEON" />
+      <Distrito Id="22" Nombre="CUAJINIQUIL" />
+      <Distrito Id="23" Nombre="GUACIMAL" />
+      <Distrito Id="24" Nombre="COBANO" />
+      <Distrito Id="25" Nombre="SANTA ELENA" />
+      <Distrito Id="26" Nombre="DOMINICAS" />
+      <Distrito Id="27" Nombre="MONTEZUMA" />
+      <Distrito Id="28" Nombre="PILAS DE CANJEL" />
+      <Distrito Id="29" Nombre="SAN LUIS DE MONTEVERDE" />
+      <Distrito Id="30" Nombre="SAN RAMON DE RIO BLANCO" />
+      <Distrito Id="31" Nombre="COSTA DE PAJAROS(BRISAS DEL GOLFO)" />
+      <Distrito Id="32" Nombre="SANTA ROSA" />
+      <Distrito Id="33" Nombre="CABO BLANCO DEL GOLFO" />
+      <Distrito Id="34" Nombre="CARMEN LIRA" />
+      <Distrito Id="35" Nombre="POCHOTE" />
+      <Distrito Id="36" Nombre="RIO NEGRO" />
+      <Distrito Id="37" Nombre="BELLO HORIZONTE" />
+      <Distrito Id="38" Nombre="LA ESPERANZA" />
+      <Distrito Id="39" Nombre="RIO FRIO" />
+      <Distrito Id="40" Nombre="ABANGARITOS" />
+      <Distrito Id="41" Nombre="FLORIDA (TACOTALES)" />
+      <Distrito Id="42" Nombre="LA TIGRA (BELLAVISTA)" />
+      <Distrito Id="43" Nombre="KENNEDY(INVU 1-2)" />
+      <Distrito Id="44" Nombre="RIO GRANDE" />
+      <Distrito Id="45" Nombre="SAN RAFAEL" />
+      <Distrito Id="46" Nombre="GUARIA" />
+      <Distrito Id="47" Nombre="CHACARITA" />
+      <Distrito Id="48" Nombre="SAN MIGUEL DE RIO BLANCO" />
+      <Distrito Id="49" Nombre="EL BALSO" />
+      <Distrito Id="50" Nombre="SAN BLAS" />
+      <Distrito Id="52" Nombre="PAVON" />
+      <Distrito Id="54" Nombre="SAN RAFAEL DE ACAPULCO" />
+      <Distrito Id="55" Nombre="OJO DE AGUA" />
+      <Distrito Id="56" Nombre="BAJO CALIENTE (PARTE OESTE)" />
+      <Distrito Id="57" Nombre="ISLA CABALLO" />
+      <Distrito Id="58" Nombre="MALINCHE" />
+      <Distrito Id="59" Nombre="JUDAS" />
+      <Distrito Id="64" Nombre="GIGANTE" />
+      <Distrito Id="65" Nombre="PUEBLO NUEVO" />
+      <Distrito Id="67" Nombre="CABUYA" />
+      <Distrito Id="68" Nombre="MAL PAIS" />
+      <Distrito Id="69" Nombre="COYOLITO (OESTE)" />
+      <Distrito Id="72" Nombre="ARANJUEZ" />
+      <Distrito Id="74" Nombre="ORIENTE (ISLA VENADO PARTE)" />
+      <Distrito Id="77" Nombre="CORAZON DE JESUS (ARANCIBIA NORTE)" />
+      <Distrito Id="81" Nombre="CHAPERNAL" />
+      <Distrito Id="82" Nombre="LA FRESCA" />
+      <Distrito Id="83" Nombre="BAJO NEGRO" />
+      <Distrito Id="85" Nombre="MORALES" />
+      <Distrito Id="86" Nombre="EL ROBLE" />
+      <Distrito Id="87" Nombre="FRAY CASIANO DE MADRID" />
+      <Distrito Id="88" Nombre="BARRIO EL CARMEN" />
+      <Distrito Id="89" Nombre="EL COCAL" />
+      <Distrito Id="90" Nombre="BOCANA" />
+      <Distrito Id="91" Nombre="SAN PEDRO" />
+      <Distrito Id="92" Nombre="CEBADILLA DE ARANJUEZ (BRILLANTE)" />
+      <Distrito Id="93" Nombre="PANICA" />
+      <Distrito Id="94" Nombre="C. P. 26 DE JULIO (SENTENCIADOS)" />
+      <Distrito Id="95" Nombre="PUERTO PALITO" />
+      <Distrito Id="96" Nombre="FLORIDA(ISLA VENADO PARTE)" />
+      <Distrito Id="97" Nombre="CONCEPCION" />
+      <Distrito Id="98" Nombre="JUANITO MORA" />
+      <Distrito Id="100" Nombre="EL PROGRESO" />
+      <Distrito Id="101" Nombre="CHAGUITE" />
+      <Distrito Id="102" Nombre="VALLE AZUL" />
+      <Distrito Id="103" Nombre="H.A. MIGUEL MORENO" />
+      <Distrito Id="104" Nombre="PLAYA BLANCA" />
+      <Distrito Id="105" Nombre="ISLA DEL COCO" />
+      <Distrito Id="106" Nombre="H.A. MARIA INMACULADA" />
+      <Distrito Id="107" Nombre="YIRETH" />
+      <Distrito Id="108" Nombre="SANTA TERESA (CARMEN)" />
+      <Distrito Id="109" Nombre="C.P. 26 DE JULIO (INDICIADOS)" />
+    </Canton>
+    <Canton Id="2" Nombre="ESPARZA">
+      <Distrito Id="1" Nombre="ESPARZA" />
+      <Distrito Id="2" Nombre="ARTIEDA (CHUMICAL)" />
+      <Distrito Id="3" Nombre="SAN JUAN GRANDE" />
+      <Distrito Id="4" Nombre="MATA DE LIMON" />
+      <Distrito Id="5" Nombre="JUANILAMA" />
+      <Distrito Id="6" Nombre="SALINAS" />
+      <Distrito Id="7" Nombre="MACACONA" />
+      <Distrito Id="8" Nombre="PE�A BLANCA" />
+      <Distrito Id="9" Nombre="MESETAS ABAJO" />
+      <Distrito Id="10" Nombre="SAN RAFAEL" />
+      <Distrito Id="11" Nombre="GUADALUPE O MARATON" />
+      <Distrito Id="12" Nombre="EL BARON" />
+      <Distrito Id="13" Nombre="MOJON" />
+      <Distrito Id="14" Nombre="SAN JERONIMO" />
+      <Distrito Id="15" Nombre="CERRILLOS" />
+      <Distrito Id="16" Nombre="MARA�ONAL (PARTE OESTE)" />
+      <Distrito Id="17" Nombre="PARAISO O BRUSELAS" />
+      <Distrito Id="18" Nombre="H.A. CARLOS VENEGAS" />
+      <Distrito Id="19" Nombre="TIVIVES" />
+    </Canton>
+    <Canton Id="3" Nombre="BUENOS AIRES">
+      <Distrito Id="1" Nombre="BUENOS AIRES" />
+      <Distrito Id="2" Nombre="SAN LUIS (FLORIDA)" />
+      <Distrito Id="3" Nombre="SALITRE" />
+      <Distrito Id="4" Nombre="VOLCAN" />
+      <Distrito Id="5" Nombre="POTRERO GRANDE" />
+      <Distrito Id="6" Nombre="BORUCA" />
+      <Distrito Id="7" Nombre="LAS PILAS" />
+      <Distrito Id="8" Nombre="COLINAS (MAIZ DE LOS UVA)" />
+      <Distrito Id="10" Nombre="JABILLO" />
+      <Distrito Id="11" Nombre="CURRE" />
+      <Distrito Id="12" Nombre="LA DANTA O CONCEPCION" />
+      <Distrito Id="13" Nombre="SAN RAFAEL DE BRUNKA" />
+      <Distrito Id="14" Nombre="UJARRAS" />
+      <Distrito Id="15" Nombre="VUELTAS" />
+      <Distrito Id="16" Nombre="SANTA MARTA" />
+      <Distrito Id="17" Nombre="LA LUCHA" />
+      <Distrito Id="18" Nombre="PARAISO (ANIMAS)" />
+      <Distrito Id="19" Nombre="BAJO LAS BRISAS" />
+      <Distrito Id="20" Nombre="EL PEJE" />
+      <Distrito Id="21" Nombre="CORDONCILLO" />
+      <Distrito Id="22" Nombre="TERRABA" />
+      <Distrito Id="23" Nombre="SAN RAFAEL DE CABAGRA" />
+      <Distrito Id="24" Nombre="PASO REAL" />
+      <Distrito Id="25" Nombre="BOLAS DE KRUGRA" />
+      <Distrito Id="26" Nombre="NARANJOS" />
+      <Distrito Id="27" Nombre="BIJAGUAL" />
+      <Distrito Id="28" Nombre="CAJON" />
+      <Distrito Id="29" Nombre="GUAGARAL" />
+      <Distrito Id="30" Nombre="MAIZ DE BORUCA" />
+      <Distrito Id="31" Nombre="CHANGUENA (LA FILA)" />
+      <Distrito Id="32" Nombre="PILON" />
+      <Distrito Id="33" Nombre="LAS VEGAS DE RIO CHANGUENA" />
+      <Distrito Id="34" Nombre="LA BONGA" />
+      <Distrito Id="35" Nombre="SAN VICENTE UPIAV-2" />
+      <Distrito Id="36" Nombre="PARAISO" />
+      <Distrito Id="37" Nombre="SAN LUIS DE RIO LIMON" />
+      <Distrito Id="38" Nombre="OLAN" />
+      <Distrito Id="39" Nombre="CACIQUE" />
+      <Distrito Id="40" Nombre="CAPRI" />
+      <Distrito Id="41" Nombre="PUENTE DE SALITRE" />
+      <Distrito Id="42" Nombre="SAN ANTONIO" />
+      <Distrito Id="43" Nombre="VILLA HERMOSA" />
+      <Distrito Id="44" Nombre="EL CEIBO" />
+      <Distrito Id="45" Nombre="LA PUNA" />
+      <Distrito Id="46" Nombre="COLORADO" />
+      <Distrito Id="47" Nombre="EL CARMEN" />
+      <Distrito Id="48" Nombre="CONVENTO" />
+      <Distrito Id="49" Nombre="CA�AS" />
+      <Distrito Id="50" Nombre="SAN CARLOS" />
+      <Distrito Id="51" Nombre="SHAMBA" />
+      <Distrito Id="52" Nombre="CA�O BRAVO" />
+      <Distrito Id="53" Nombre="SANTA CRUZ" />
+      <Distrito Id="54" Nombre="PALMITAL" />
+    </Canton>
+    <Canton Id="4" Nombre="MONTES DE ORO">
+      <Distrito Id="1" Nombre="MIRAMAR" />
+      <Distrito Id="2" Nombre="ZAGALA VIEJA" />
+      <Distrito Id="3" Nombre="RIO SECO" />
+      <Distrito Id="4" Nombre="LA UNION" />
+      <Distrito Id="5" Nombre="PALMITAL" />
+      <Distrito Id="6" Nombre="CEDRAL" />
+      <Distrito Id="7" Nombre="CIRUELAS" />
+      <Distrito Id="8" Nombre="SAN ISIDRO (TIGRE)" />
+      <Distrito Id="9" Nombre="TAJO ALTO (PARTE SUR)" />
+      <Distrito Id="12" Nombre="SANTA ROSA" />
+      <Distrito Id="13" Nombre="LAGUNA" />
+      <Distrito Id="14" Nombre="H.A. FRAY CASIANO DE MADRID" />
+      <Distrito Id="15" Nombre="LINDA VISTA" />
+    </Canton>
+    <Canton Id="5" Nombre="OSA">
+      <Distrito Id="1" Nombre="PUERTO CORTES" />
+      <Distrito Id="2" Nombre="PALMAR NORTE" />
+      <Distrito Id="3" Nombre="SIERPE" />
+      <Distrito Id="4" Nombre="PIEDRAS BLANCAS" />
+      <Distrito Id="5" Nombre="PALMAR SUR" />
+      <Distrito Id="6" Nombre="OLLA CERO O SANTA EDUVIGIS" />
+      <Distrito Id="7" Nombre="SAN FRANCISCO DE RIO TINOCO" />
+      <Distrito Id="8" Nombre="GUARIA" />
+      <Distrito Id="9" Nombre="CORONADO" />
+      <Distrito Id="10" Nombre="OJOCHAL" />
+      <Distrito Id="11" Nombre="DOMINICALITO" />
+      <Distrito Id="12" Nombre="MOGOS" />
+      <Distrito Id="13" Nombre="UVITA" />
+      <Distrito Id="15" Nombre="SAN BUENAVENTURA" />
+      <Distrito Id="16" Nombre="DRAKE (AGUJITAS)" />
+      <Distrito Id="17" Nombre="SABALO" />
+      <Distrito Id="18" Nombre="LA NAVIDAD" />
+      <Distrito Id="20" Nombre="OJO DE AGUA" />
+      <Distrito Id="21" Nombre="VENECIA" />
+      <Distrito Id="22" Nombre="RINCON DEL GOLFO" />
+      <Distrito Id="23" Nombre="CHOCUACO ARRIBA" />
+      <Distrito Id="24" Nombre="FINCA SEIS-ONCE" />
+      <Distrito Id="25" Nombre="BALSAR ARRIBA" />
+      <Distrito Id="26" Nombre="FINCA DOS-CUATRO" />
+      <Distrito Id="27" Nombre="RIYITO DE SIERPE" />
+      <Distrito Id="28" Nombre="MIRAMAR" />
+      <Distrito Id="30" Nombre="JALACA (PARTE SUR)" />
+      <Distrito Id="32" Nombre="SINAI" />
+      <Distrito Id="33" Nombre="RANCHO QUEMADO O DELICIAS" />
+      <Distrito Id="34" Nombre="CA�ABLANCAL" />
+      <Distrito Id="35" Nombre="EL PROGRESO" />
+      <Distrito Id="36" Nombre="FINCA GUANACASTE (PARTE OESTE)" />
+      <Distrito Id="37" Nombre="H.A. PALMAR SUR" />
+      <Distrito Id="38" Nombre="LOS PLANES" />
+      <Distrito Id="39" Nombre="ALTO LAGUNA" />
+    </Canton>
+    <Canton Id="6" Nombre="QUEPOS">
+      <Distrito Id="1" Nombre="QUEPOS" />
+      <Distrito Id="2" Nombre="CERRITOS" />
+      <Distrito Id="3" Nombre="NARANJITO" />
+      <Distrito Id="4" Nombre="PASITO" />
+      <Distrito Id="6" Nombre="DAMAS" />
+      <Distrito Id="7" Nombre="VILLANUEVA" />
+      <Distrito Id="9" Nombre="MATAPALO" />
+      <Distrito Id="12" Nombre="SAN RAFAEL (CERROS)" />
+      <Distrito Id="16" Nombre="RONCADOR" />
+      <Distrito Id="17" Nombre="HATILLO VIEJO (SANTA MARTA)" />
+      <Distrito Id="20" Nombre="PUNTO DE MIRA" />
+      <Distrito Id="21" Nombre="MARITIMA" />
+      <Distrito Id="22" Nombre="DOS BOCAS" />
+      <Distrito Id="23" Nombre="TIERRAS MORENAS" />
+      <Distrito Id="25" Nombre="PAQUITA" />
+      <Distrito Id="27" Nombre="LONDRES" />
+      <Distrito Id="29" Nombre="SILENCIO" />
+      <Distrito Id="31" Nombre="LA INMACULADA" />
+      <Distrito Id="32" Nombre="SANTO DOMINGO" />
+      <Distrito Id="33" Nombre="MANUEL ANTONIO" />
+      <Distrito Id="34" Nombre="BOCA VIEJA" />
+      <Distrito Id="35" Nombre="COCAL" />
+      <Distrito Id="36" Nombre="SABALO" />
+      <Distrito Id="37" Nombre="PORTALON" />
+      <Distrito Id="38" Nombre="H.A. QUEPOS" />
+    </Canton>
+    <Canton Id="7" Nombre="GOLFITO">
+      <Distrito Id="1" Nombre="GOLFITO" />
+      <Distrito Id="2" Nombre="PUERTO JIMENEZ" />
+      <Distrito Id="3" Nombre="LA PALMA O INDEPENDENCIA" />
+      <Distrito Id="4" Nombre="CA�AZA DE JIMENEZ" />
+      <Distrito Id="5" Nombre="VILLA BRICE�O (KM 37)" />
+      <Distrito Id="6" Nombre="CONTE DE PAVON" />
+      <Distrito Id="7" Nombre="FLORIDA (AGUADA)" />
+      <Distrito Id="8" Nombre="ZANCUDO (PUERTO NUEVO)" />
+      <Distrito Id="9" Nombre="BOCA GALLARDO DE SANDALO" />
+      <Distrito Id="10" Nombre="RIO CLARO" />
+      <Distrito Id="11" Nombre="LA MONA" />
+      <Distrito Id="12" Nombre="LA FORTUNA DE COTO" />
+      <Distrito Id="13" Nombre="LA VIRGEN" />
+      <Distrito Id="14" Nombre="PUNTA BANCO (NICARAGUA)" />
+      <Distrito Id="15" Nombre="LLANO BONITO" />
+      <Distrito Id="16" Nombre="UNION DE COTO NORTE" />
+      <Distrito Id="17" Nombre="VALLE DE LOS CEDROS O SAN MIGUEL" />
+      <Distrito Id="19" Nombre="KILOMETRO 16" />
+      <Distrito Id="20" Nombre="BAHIA DE PAVON (COCAL AMARILLO)" />
+      <Distrito Id="21" Nombre="LA PE�A DE BURICA" />
+      <Distrito Id="23" Nombre="CARACOL NORTE (PARTE)" />
+      <Distrito Id="24" Nombre="GUAYMI DE BURICA" />
+      <Distrito Id="25" Nombre="ALTO CONTE (MOLO DUBTDO)" />
+      <Distrito Id="26" Nombre="VIQUILLAS" />
+      <Distrito Id="27" Nombre="PROGRESO DE CONTEBURICA" />
+      <Distrito Id="28" Nombre="CACAO" />
+      <Distrito Id="29" Nombre="RESIDENCIAL URE�A" />
+      <Distrito Id="30" Nombre="ESCUADRA" />
+      <Distrito Id="31" Nombre="LAGARTO (LA LUCHA)" />
+      <Distrito Id="32" Nombre="KILOMETRO 20" />
+      <Distrito Id="33" Nombre="GEMELAS (RIO CLARO DE PAVON)" />
+      <Distrito Id="34" Nombre="ESPERANZA" />
+      <Distrito Id="35" Nombre="SAN RAMON" />
+      <Distrito Id="36" Nombre="FINCA 54" />
+      <Distrito Id="37" Nombre="H.A. GOLFITO" />
+      <Distrito Id="38" Nombre="CARBONERA" />
+    </Canton>
+    <Canton Id="8" Nombre="COTO BRUS">
+      <Distrito Id="1" Nombre="SAN VITO" />
+      <Distrito Id="2" Nombre="BAJO REYES" />
+      <Distrito Id="3" Nombre="LA ADMINISTRACION (GUTIERREZ BRAUN" />
+      <Distrito Id="4" Nombre="SABALITO" />
+      <Distrito Id="5" Nombre="SAN MIGUEL DE LA FRONTERA" />
+      <Distrito Id="6" Nombre="LAS MELLIZAS" />
+      <Distrito Id="7" Nombre="AGUABUENA" />
+      <Distrito Id="8" Nombre="LIMONCITO DEL OESTE" />
+      <Distrito Id="9" Nombre="LA UNION DE LIMONCITO" />
+      <Distrito Id="10" Nombre="SAN RAFAEL DE LIMONCITO" />
+      <Distrito Id="11" Nombre="SABANILLA" />
+      <Distrito Id="12" Nombre="CA�AS GORDAS" />
+      <Distrito Id="13" Nombre="COPAL" />
+      <Distrito Id="14" Nombre="SAN FRANCISCO DE AGUA BUENA" />
+      <Distrito Id="15" Nombre="EL VALLE" />
+      <Distrito Id="16" Nombre="SAN GERARDO" />
+      <Distrito Id="18" Nombre="MONTERREY" />
+      <Distrito Id="19" Nombre="FILA MENDEZ" />
+      <Distrito Id="20" Nombre="SANTA ELENA" />
+      <Distrito Id="21" Nombre="FILA GUINEA" />
+      <Distrito Id="22" Nombre="FILA PINAR" />
+      <Distrito Id="23" Nombre="FLOR DEL ROBLE" />
+      <Distrito Id="24" Nombre="LOURDES" />
+      <Distrito Id="25" Nombre="LA LUCHA" />
+      <Distrito Id="26" Nombre="LOS ANGELES DE SABALITO" />
+      <Distrito Id="27" Nombre="CONCEPCION" />
+      <Distrito Id="28" Nombre="SANTA CECILIA DE AGUA BUENA" />
+      <Distrito Id="29" Nombre="CAMPO TRES" />
+      <Distrito Id="30" Nombre="SANTA RITA" />
+      <Distrito Id="31" Nombre="SANTA CLARA" />
+      <Distrito Id="32" Nombre="BRISAS" />
+      <Distrito Id="33" Nombre="PIEDRA PINTADA" />
+      <Distrito Id="34" Nombre="SAN ANTONIO" />
+      <Distrito Id="35" Nombre="LINDA VISTA (ALTO ZONCHO)" />
+      <Distrito Id="36" Nombre="ROBLE" />
+      <Distrito Id="37" Nombre="AGUA CALIENTE" />
+      <Distrito Id="38" Nombre="AGUAS CLARAS" />
+      <Distrito Id="39" Nombre="SANTA TERESA" />
+      <Distrito Id="40" Nombre="CAMAQUIRI" />
+      <Distrito Id="41" Nombre="PALMIRA" />
+      <Distrito Id="42" Nombre="LA CASONA (GUAYMI)" />
+      <Distrito Id="43" Nombre="MARAVILLA" />
+      <Distrito Id="44" Nombre="BARRIO CANADA" />
+      <Distrito Id="45" Nombre="H.A. COTO BRUS" />
+      <Distrito Id="46" Nombre="SAN RAMON" />
+      <Distrito Id="47" Nombre="LA ISLA" />
+    </Canton>
+    <Canton Id="9" Nombre="PARRITA">
+      <Distrito Id="1" Nombre="PUEBLO NUEVO" />
+      <Distrito Id="2" Nombre="ESTERILLOS OESTE" />
+      <Distrito Id="4" Nombre="CHIRES ARRIBA" />
+      <Distrito Id="5" Nombre="SARDINAL SUR" />
+      <Distrito Id="6" Nombre="LOMAS DE PARRITA" />
+      <Distrito Id="7" Nombre="LOS ANGELES" />
+      <Distrito Id="8" Nombre="EL TIGRE" />
+      <Distrito Id="10" Nombre="CHIRRACA" />
+      <Distrito Id="11" Nombre="SAN ISIDRO DE PLAYON" />
+      <Distrito Id="12" Nombre="SURUBRES" />
+      <Distrito Id="13" Nombre="PALO SECO" />
+      <Distrito Id="14" Nombre="VUELTA DE POCARES" />
+      <Distrito Id="15" Nombre="POCARES" />
+      <Distrito Id="16" Nombre="PORVENIR O LAS VEGAS" />
+      <Distrito Id="17" Nombre="SAN RAFAEL NORTE (RIO SECO)" />
+      <Distrito Id="18" Nombre="LAS PARCELAS O DAMITAS (PIRRIS)" />
+      <Distrito Id="19" Nombre="ISLA DAMAS" />
+      <Distrito Id="20" Nombre="PIRRIS" />
+      <Distrito Id="21" Nombre="BAMBU" />
+      <Distrito Id="23" Nombre="VALLE VASCONIA (BARRO)" />
+      <Distrito Id="24" Nombre="BEJUCO" />
+      <Distrito Id="25" Nombre="LA JULIETA" />
+      <Distrito Id="26" Nombre="PLAYON SUR" />
+      <Distrito Id="27" Nombre="BANDERA" />
+      <Distrito Id="28" Nombre="CARMEN (PARTE SUR)" />
+      <Distrito Id="29" Nombre="PLAYA ISLA PALO SECO" />
+    </Canton>
+    <Canton Id="10" Nombre="CORREDORES">
+      <Distrito Id="1" Nombre="NEILY" />
+      <Distrito Id="2" Nombre="CAMPO DOS Y MEDIO (PARTE SUR)" />
+      <Distrito Id="3" Nombre="BAJO LOS INDIOS" />
+      <Distrito Id="4" Nombre="COTO CUARENTA Y DOS" />
+      <Distrito Id="5" Nombre="COTO CUARENTA Y SIETE" />
+      <Distrito Id="6" Nombre="ABROJO NORTE(VEGAS ABRO N)" />
+      <Distrito Id="7" Nombre="CAMPI�A" />
+      <Distrito Id="8" Nombre="LA CUESTA" />
+      <Distrito Id="9" Nombre="LAUREL" />
+      <Distrito Id="11" Nombre="CANOAS" />
+      <Distrito Id="12" Nombre="BARRIO NUEVO DE VERACRUZ (COL.SUR)" />
+      <Distrito Id="13" Nombre="COLORADO" />
+      <Distrito Id="14" Nombre="MARIPOSA" />
+      <Distrito Id="15" Nombre="LOS PLANES" />
+      <Distrito Id="16" Nombre="CARMEN (COLORADITO NORTE)" />
+      <Distrito Id="17" Nombre="BELLA LUZ" />
+      <Distrito Id="18" Nombre="COLONIA LIBERTAD (KM 31)" />
+      <Distrito Id="19" Nombre="LA NUBIA (KILOMETRO 25)" />
+      <Distrito Id="20" Nombre="CARACOL DE LA VACA" />
+      <Distrito Id="21" Nombre="VEREH" />
+      <Distrito Id="22" Nombre="RIO BONITO DE NEILY" />
+      <Distrito Id="23" Nombre="SAN MARTIN" />
+      <Distrito Id="24" Nombre="FORTUNA" />
+      <Distrito Id="26" Nombre="VEGAS DEL RIO LA VACA NIBIRIBOTDA" />
+      <Distrito Id="27" Nombre="ABROJO-MONTEZUMA" />
+      <Distrito Id="28" Nombre="NARANJO" />
+      <Distrito Id="29" Nombre="RIO NUEVO" />
+      <Distrito Id="30" Nombre="H.A. NEILY" />
+      <Distrito Id="31" Nombre="DARIZARA" />
+      <Distrito Id="32" Nombre="BARRIO SAN JORGE" />
+    </Canton>
+    <Canton Id="11" Nombre="GARABITO">
+      <Distrito Id="1" Nombre="JACO" />
+      <Distrito Id="2" Nombre="TARCOLES" />
+      <Distrito Id="3" Nombre="QUEBRADA GANADO" />
+      <Distrito Id="5" Nombre="HERRADURA" />
+      <Distrito Id="6" Nombre="PUEBLO NUEVO (LA MONA)" />
+      <Distrito Id="7" Nombre="LAGUNILLAS (PARTE OESTE)" />
+      <Distrito Id="8" Nombre="POCHOTAL" />
+      <Distrito Id="9" Nombre="QUEBRADA AMARILLA" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="7" Nombre="LIMON">
+    <Canton Id="1" Nombre="CENTRAL">
+      <Distrito Id="1" Nombre="LIMON" />
+      <Distrito Id="2" Nombre="LIVERPOOL" />
+      <Distrito Id="3" Nombre="LA BOMBA" />
+      <Distrito Id="4" Nombre="LA COLONIA" />
+      <Distrito Id="5" Nombre="PENSHURT" />
+      <Distrito Id="6" Nombre="CRISTOBAL COLON" />
+      <Distrito Id="7" Nombre="MOIN" />
+      <Distrito Id="8" Nombre="PUEBLO NUEVO O JAMAICA" />
+      <Distrito Id="9" Nombre="VESTA" />
+      <Distrito Id="10" Nombre="SAN ANDRES" />
+      <Distrito Id="11" Nombre="RIO BLANCO" />
+      <Distrito Id="12" Nombre="WESTFALIA" />
+      <Distrito Id="13" Nombre="CORALES 2" />
+      <Distrito Id="14" Nombre="LIMONCITO O BARRIO QUINTO" />
+      <Distrito Id="15" Nombre="SANTA ROSA" />
+      <Distrito Id="17" Nombre="BANANITO NORTE" />
+      <Distrito Id="18" Nombre="BRISAS DE VERAGUA" />
+      <Distrito Id="19" Nombre="SANTA EDUVIGIS" />
+      <Distrito Id="20" Nombre="BUFALO" />
+      <Distrito Id="21" Nombre="BOCUARE" />
+      <Distrito Id="22" Nombre="VALLE DE LAS ROSAS" />
+      <Distrito Id="23" Nombre="BEVERLEY" />
+      <Distrito Id="24" Nombre="AGUAS ZARCAS" />
+      <Distrito Id="25" Nombre="PROGRESO" />
+      <Distrito Id="26" Nombre="SAN RAFAEL" />
+      <Distrito Id="27" Nombre="VILLA DEL MAR" />
+      <Distrito Id="28" Nombre="LA COLINA" />
+      <Distrito Id="29" Nombre="SAN JUAN" />
+      <Distrito Id="30" Nombre="PANDORA ESTE (LA PLASTICA)" />
+      <Distrito Id="31" Nombre="VALLE AURORA" />
+      <Distrito Id="32" Nombre="GUARIA" />
+      <Distrito Id="33" Nombre="SANTA RITA" />
+      <Distrito Id="34" Nombre="ALTO CWEN" />
+      <Distrito Id="35" Nombre="XIQIARI" />
+      <Distrito Id="36" Nombre="SINOLI" />
+      <Distrito Id="37" Nombre="C.P. LIMON (SANDOVAL)" />
+      <Distrito Id="38" Nombre="H.A. VICTOR CASCO TORRES" />
+      <Distrito Id="39" Nombre="URBANIZACION PACUARE" />
+      <Distrito Id="40" Nombre="CONCEPCION" />
+      <Distrito Id="41" Nombre="CANGREJOS" />
+      <Distrito Id="42" Nombre="ALMIRANTE" />
+      <Distrito Id="43" Nombre="GAVILAN (SHICALARBATA)" />
+      <Distrito Id="44" Nombre="JAKKUE (SITIO HILDA PARTE ESTE)" />
+      <Distrito Id="45" Nombre="DONDONIA" />
+      <Distrito Id="46" Nombre="RIO BANANO" />
+      <Distrito Id="47" Nombre="LOMA LINDA" />
+    </Canton>
+    <Canton Id="2" Nombre="POCOCI">
+      <Distrito Id="1" Nombre="GUAPILES" />
+      <Distrito Id="2" Nombre="BARRA DEL COLORADO" />
+      <Distrito Id="3" Nombre="JIMENEZ" />
+      <Distrito Id="4" Nombre="LAS PALMITAS" />
+      <Distrito Id="5" Nombre="LA CURIA (BUENOS AIRES)" />
+      <Distrito Id="6" Nombre="CARIARI (CAMPO KENNEDY)" />
+      <Distrito Id="7" Nombre="ROXANA" />
+      <Distrito Id="8" Nombre="LA MARAVILLA" />
+      <Distrito Id="9" Nombre="ANITA GRANDE" />
+      <Distrito Id="10" Nombre="RITA" />
+      <Distrito Id="11" Nombre="CRUCE DE ROXANA (CRUCE DE ANABAN)" />
+      <Distrito Id="12" Nombre="BANAMOLA" />
+      <Distrito Id="13" Nombre="SAN PEDRO" />
+      <Distrito Id="14" Nombre="LAS MERCEDES (NAJERA)" />
+      <Distrito Id="15" Nombre="CAMPO CINCO (SEMILLERO)" />
+      <Distrito Id="16" Nombre="SAN RAFAEL" />
+      <Distrito Id="17" Nombre="FLORES (UNION)" />
+      <Distrito Id="18" Nombre="TICABAN" />
+      <Distrito Id="19" Nombre="DIAMANTES" />
+      <Distrito Id="20" Nombre="SAN ANTONIO (EL HUMO)" />
+      <Distrito Id="21" Nombre="BOCA TORTUGUERO" />
+      <Distrito Id="22" Nombre="LA TERESA" />
+      <Distrito Id="23" Nombre="PRIMAVERA" />
+      <Distrito Id="24" Nombre="LOS ANGELES" />
+      <Distrito Id="25" Nombre="CAMPO DOS" />
+      <Distrito Id="26" Nombre="CUATRO ESQUINAS" />
+      <Distrito Id="27" Nombre="EL CEIBO" />
+      <Distrito Id="28" Nombre="SANTA ROSA" />
+      <Distrito Id="29" Nombre="LA MARINA" />
+      <Distrito Id="30" Nombre="BELLA VISTA" />
+      <Distrito Id="31" Nombre="PATIO SAN CRISTOBAL" />
+      <Distrito Id="32" Nombre="CEDRAL" />
+      <Distrito Id="33" Nombre="SECTOR 8 (SAN GERARDO)" />
+      <Distrito Id="34" Nombre="SAN GERARDO" />
+      <Distrito Id="35" Nombre="C.P. CARLOS LUIS FALLAS (MOD. ABC)" />
+      <Distrito Id="36" Nombre="CARLOTA" />
+      <Distrito Id="37" Nombre="H.A. GUAPILES" />
+      <Distrito Id="38" Nombre="TORO AMARILLO" />
+      <Distrito Id="39" Nombre="SUERRE" />
+      <Distrito Id="40" Nombre="LA FORTUNA" />
+      <Distrito Id="41" Nombre="LLANO BONITO" />
+      <Distrito Id="42" Nombre="ASTUA PIRIE" />
+      <Distrito Id="43" Nombre="PROGRESO" />
+      <Distrito Id="44" Nombre="SAN FRANCISCO DE CA�O SECO" />
+      <Distrito Id="45" Nombre="LINDA VISTA" />
+      <Distrito Id="46" Nombre="BUENOS AIRES" />
+      <Distrito Id="47" Nombre="SAN MARTIN" />
+      <Distrito Id="48" Nombre="PORVENIR" />
+      <Distrito Id="49" Nombre="C.P. CARLOS LUIS FALLAS (MOD. D-E)" />
+      <Distrito Id="50" Nombre="CASCADAS" />
+      <Distrito Id="51" Nombre="SAN BOSCO" />
+      <Distrito Id="52" Nombre="H.A. CARIARI" />
+      <Distrito Id="53" Nombre="C.P. CARLOS LUIS F. (AGROPECUARIO)" />
+      <Distrito Id="54" Nombre="C.P. 20 DE DICIEMBRE" />
+    </Canton>
+    <Canton Id="3" Nombre="SIQUIRRES">
+      <Distrito Id="1" Nombre="SIQUIRRES" />
+      <Distrito Id="2" Nombre="SANTO DOMINGO (PUEBLO CIVIL)" />
+      <Distrito Id="3" Nombre="SAN ALBERTO NUEVO" />
+      <Distrito Id="4" Nombre="PACUARITO" />
+      <Distrito Id="5" Nombre="ALEGRIA" />
+      <Distrito Id="6" Nombre="FLORIDA" />
+      <Distrito Id="7" Nombre="MILANO O NEGUEV" />
+      <Distrito Id="8" Nombre="GERMANIA" />
+      <Distrito Id="9" Nombre="SAN ALEJO SANTA MARTA" />
+      <Distrito Id="10" Nombre="EL CAIRO" />
+      <Distrito Id="11" Nombre="EL COCO" />
+      <Distrito Id="12" Nombre="CIMARRONES" />
+      <Distrito Id="13" Nombre="SAN ISIDRO (ALTO HEREDIANA)" />
+      <Distrito Id="14" Nombre="FINCA IMPERIO 2" />
+      <Distrito Id="15" Nombre="PERLA" />
+      <Distrito Id="16" Nombre="INDIANA TRES" />
+      <Distrito Id="17" Nombre="MADRE DE DIOS" />
+      <Distrito Id="18" Nombre="SAN ANTONIO" />
+      <Distrito Id="19" Nombre="HEREDIANA" />
+      <Distrito Id="20" Nombre="BOCA DE PARISMINA" />
+      <Distrito Id="21" Nombre="SAN JOSE O BAJOS DE PASCUA(ESTAC)" />
+      <Distrito Id="22" Nombre="SAN ISIDRO O ALTOS DE PASCUA" />
+      <Distrito Id="23" Nombre="SEIS AMIGOS" />
+      <Distrito Id="24" Nombre="SAN CARLOS" />
+      <Distrito Id="25" Nombre="MARYLAND" />
+      <Distrito Id="26" Nombre="FREEMAN" />
+      <Distrito Id="27" Nombre="EL PEJE" />
+      <Distrito Id="28" Nombre="GUAYACAN" />
+      <Distrito Id="29" Nombre="LUCHA" />
+      <Distrito Id="30" Nombre="BANACOL (LA ESPERANZA)" />
+      <Distrito Id="31" Nombre="CULTIVEZ" />
+      <Distrito Id="32" Nombre="BELLAVISTA" />
+      <Distrito Id="33" Nombre="ALTO LAS BRISAS DE PACUARITO" />
+      <Distrito Id="34" Nombre="COCAL" />
+      <Distrito Id="35" Nombre="SAN MARTIN" />
+      <Distrito Id="36" Nombre="PORTON IBERIA" />
+    </Canton>
+    <Canton Id="4" Nombre="TALAMANCA">
+      <Distrito Id="1" Nombre="BRATSI (BAMBU O DON DIEGO)" />
+      <Distrito Id="2" Nombre="AMUBRI" />
+      <Distrito Id="3" Nombre="COROMA (COLOQCHA)" />
+      <Distrito Id="4" Nombre="SIXAOLA" />
+      <Distrito Id="5" Nombre="CAHUITA" />
+      <Distrito Id="6" Nombre="PUERTO VIEJO" />
+      <Distrito Id="7" Nombre="BRIBRI (FIELDS)" />
+      <Distrito Id="8" Nombre="SHIROLES (XIROLES)" />
+      <Distrito Id="9" Nombre="PARAISO" />
+      <Distrito Id="10" Nombre="GANDOCA" />
+      <Distrito Id="11" Nombre="MANZANILLO" />
+      <Distrito Id="12" Nombre="HOME CREEK" />
+      <Distrito Id="13" Nombre="KATSI" />
+      <Distrito Id="14" Nombre="DAYTONIA" />
+      <Distrito Id="15" Nombre="SEPEQUE" />
+      <Distrito Id="16" Nombre="MARGARITA" />
+      <Distrito Id="17" Nombre="DINDIRI O CARBON DOS" />
+      <Distrito Id="18" Nombre="BORDON" />
+      <Distrito Id="19" Nombre="SIBUJU" />
+      <Distrito Id="20" Nombre="BAJO TELIRE (BAJO BLEY)" />
+      <Distrito Id="21" Nombre="H.A. SANTA LUISA" />
+      <Distrito Id="22" Nombre="YORKIN" />
+      <Distrito Id="23" Nombre="ALTO TELIRE (BAJO PIEDRA MESA )" />
+    </Canton>
+    <Canton Id="5" Nombre="MATINA">
+      <Distrito Id="1" Nombre="MATINA" />
+      <Distrito Id="2" Nombre="ZENT" />
+      <Distrito Id="3" Nombre="ESTRADA" />
+      <Distrito Id="4" Nombre="BATAN" />
+      <Distrito Id="5" Nombre="LUZON" />
+      <Distrito Id="6" Nombre="VEINTIOCHO MILLAS O WALDEK" />
+      <Distrito Id="7" Nombre="CORINA" />
+      <Distrito Id="8" Nombre="BRISTOL" />
+      <Distrito Id="9" Nombre="CUBA CREEK (RIO CUBA)" />
+      <Distrito Id="10" Nombre="SAHARA" />
+      <Distrito Id="11" Nombre="SANTA MARTA" />
+      <Distrito Id="12" Nombre="SANTA MARIA" />
+      <Distrito Id="13" Nombre="SAN MIGUEL" />
+      <Distrito Id="14" Nombre="LINEA B" />
+      <Distrito Id="16" Nombre="CUATRO MILLAS" />
+      <Distrito Id="17" Nombre="PALMERA (CATSAQIBI)" />
+      <Distrito Id="18" Nombre="ESPERANZA" />
+      <Distrito Id="19" Nombre="ESPAVEL (VEGAS)" />
+      <Distrito Id="20" Nombre="BARBILLA NORTE" />
+    </Canton>
+    <Canton Id="6" Nombre="GUACIMO">
+      <Distrito Id="1" Nombre="GUACIMO" />
+      <Distrito Id="2" Nombre="HOGAR" />
+      <Distrito Id="3" Nombre="BOSQUE" />
+      <Distrito Id="4" Nombre="PARISMINA" />
+      <Distrito Id="5" Nombre="IROQUOIS" />
+      <Distrito Id="6" Nombre="POCORA PARTE NORTE" />
+      <Distrito Id="7" Nombre="RIO JIMENEZ (BALSAVILLE)" />
+      <Distrito Id="8" Nombre="SANTA ROSA" />
+      <Distrito Id="9" Nombre="VILLAFRANCA" />
+      <Distrito Id="10" Nombre="OJO DE AGUA O SAN GDO (DESTIERRO)" />
+      <Distrito Id="11" Nombre="LOS ANGELES" />
+      <Distrito Id="12" Nombre="SAN LUIS" />
+      <Distrito Id="13" Nombre="PUEBLO NUEVO O ZANCUDO" />
+      <Distrito Id="14" Nombre="LIMBO" />
+      <Distrito Id="15" Nombre="POCORA PARTE SUR" />
+      <Distrito Id="16" Nombre="ARGENTINA" />
+      <Distrito Id="17" Nombre="LAS COLINAS" />
+      <Distrito Id="18" Nombre="H.A DAVID GARRO" />
+    </Canton>
+  </Provincia>
+  <Provincia Id="8" Nombre="CONSULADO">
+    <Canton Id="1" Nombre="ALEMANIA">
+      <Distrito Id="1" Nombre="BERLIN" />
+    </Canton>
+    <Canton Id="2" Nombre="ARGENTINA">
+      <Distrito Id="1" Nombre="BUENOS AIRES" />
+    </Canton>
+    <Canton Id="3" Nombre="AUSTRIA">
+      <Distrito Id="1" Nombre="VIENA" />
+    </Canton>
+    <Canton Id="4" Nombre="BELGICA">
+      <Distrito Id="1" Nombre="BRUSELAS" />
+    </Canton>
+    <Canton Id="5" Nombre="BELICE">
+      <Distrito Id="1" Nombre="BELMOPAN" />
+    </Canton>
+    <Canton Id="6" Nombre="BRASIL">
+      <Distrito Id="1" Nombre="BRASILIA" />
+    </Canton>
+    <Canton Id="7" Nombre="CANADA">
+      <Distrito Id="1" Nombre="OTTAWA" />
+      <Distrito Id="2" Nombre="TORONTO" />
+    </Canton>
+    <Canton Id="8" Nombre="CHILE">
+      <Distrito Id="1" Nombre="SANTIAGO" />
+    </Canton>
+    <Canton Id="9" Nombre="CHINA">
+      <Distrito Id="1" Nombre="BEIJIN" />
+      <Distrito Id="2" Nombre="SHANGHAI" />
+    </Canton>
+    <Canton Id="10" Nombre="COLOMBIA">
+      <Distrito Id="1" Nombre="BOGOTA" />
+    </Canton>
+    <Canton Id="11" Nombre="COREA">
+      <Distrito Id="1" Nombre="SEUL" />
+    </Canton>
+    <Canton Id="12" Nombre="CUBA">
+      <Distrito Id="1" Nombre="LA HABANA" />
+    </Canton>
+    <Canton Id="13" Nombre="ECUADOR">
+      <Distrito Id="1" Nombre="QUITO" />
+    </Canton>
+    <Canton Id="14" Nombre="ESTADOS UNIDOS">
+      <Distrito Id="1" Nombre="ATLANTA" />
+      <Distrito Id="2" Nombre="HOUSTON" />
+      <Distrito Id="3" Nombre="LOS ANGELES" />
+      <Distrito Id="4" Nombre="MIAMI" />
+      <Distrito Id="5" Nombre="NUEVA YORK" />
+      <Distrito Id="6" Nombre="WASHINGTON" />
+      <Distrito Id="7" Nombre="CHICAGO" />
+    </Canton>
+    <Canton Id="15" Nombre="EL SALVADOR">
+      <Distrito Id="1" Nombre="SAN SALVADOR" />
+    </Canton>
+    <Canton Id="16" Nombre="ESPA�A">
+      <Distrito Id="1" Nombre="MADRID" />
+    </Canton>
+    <Canton Id="17" Nombre="FRANCIA">
+      <Distrito Id="1" Nombre="PARIS" />
+    </Canton>
+    <Canton Id="18" Nombre="GUATEMALA">
+      <Distrito Id="1" Nombre="GUATEMALA" />
+    </Canton>
+    <Canton Id="19" Nombre="HONDURAS">
+      <Distrito Id="1" Nombre="TEGUCIGALPA" />
+    </Canton>
+    <Canton Id="20" Nombre="ISRAEL">
+      <Distrito Id="1" Nombre="TEL AVIV" />
+    </Canton>
+    <Canton Id="21" Nombre="ITALIA">
+      <Distrito Id="1" Nombre="ROMA" />
+    </Canton>
+    <Canton Id="22" Nombre="JAPON">
+      <Distrito Id="1" Nombre="TOKIO" />
+    </Canton>
+    <Canton Id="23" Nombre="MEXICO">
+      <Distrito Id="1" Nombre="MEXICO" />
+    </Canton>
+    <Canton Id="24" Nombre="NICARAGUA">
+      <Distrito Id="1" Nombre="CHINANDEGA" />
+      <Distrito Id="2" Nombre="MANAGUA" />
+    </Canton>
+    <Canton Id="26" Nombre="PAISES BAJOS">
+      <Distrito Id="1" Nombre="LA HAYA" />
+    </Canton>
+    <Canton Id="27" Nombre="PANAMA">
+      <Distrito Id="1" Nombre="CIUDAD DE PANAMA" />
+      <Distrito Id="2" Nombre="DAVID" />
+    </Canton>
+    <Canton Id="28" Nombre="PERU">
+      <Distrito Id="1" Nombre="LIMA" />
+    </Canton>
+    <Canton Id="29" Nombre="REINO UNIDO">
+      <Distrito Id="1" Nombre="LONDRES" />
+    </Canton>
+    <Canton Id="30" Nombre="REPUBLICA DOMINICANA">
+      <Distrito Id="1" Nombre="SANTO DOMINGO" />
+    </Canton>
+    <Canton Id="31" Nombre="RUSIA">
+      <Distrito Id="1" Nombre="MOSCU" />
+    </Canton>
+    <Canton Id="32" Nombre="SINGAPUR">
+      <Distrito Id="1" Nombre="SINGAPUR" />
+    </Canton>
+    <Canton Id="33" Nombre="SUIZA">
+      <Distrito Id="1" Nombre="BERNA" />
+    </Canton>
+    <Canton Id="34" Nombre="TRINIDAD Y TOBAGO">
+      <Distrito Id="1" Nombre="PUERTO ESPA�A" />
+    </Canton>
+    <Canton Id="35" Nombre="URUGUAY">
+      <Distrito Id="1" Nombre="MONTEVIDEO" />
+    </Canton>
+    <Canton Id="36" Nombre="VENEZUELA">
+      <Distrito Id="1" Nombre="CARACAS" />
+    </Canton>
+    <Canton Id="37" Nombre="INDIA">
+      <Distrito Id="1" Nombre="NUEVA DELHI" />
+    </Canton>
+    <Canton Id="38" Nombre="QATAR">
+      <Distrito Id="1" Nombre="DOHA" />
+    </Canton>
+    <Canton Id="39" Nombre="BOLIVIA">
+      <Distrito Id="1" Nombre="LA PAZ" />
+    </Canton>
+    <Canton Id="40" Nombre="PARAGUAY">
+      <Distrito Id="1" Nombre="ASUNCION" />
+    </Canton>
+    <Canton Id="41" Nombre="AUSTRALIA">
+      <Distrito Id="1" Nombre="SIDNEY" />
+    </Canton>
+    <Canton Id="43" Nombre="JAMAICA">
+      <Distrito Id="1" Nombre="KINGSTON JAMAICA" />
+    </Canton>
+    <Canton Id="44" Nombre="TURQUIA">
+      <Distrito Id="1" Nombre="ANKARA" />
+    </Canton>
+    <Canton Id="45" Nombre="EMIRATOS ARABES UNIDOS">
+      <Distrito Id="1" Nombre="ABU DHABI" />
+    </Canton>
+    <Canton Id="46" Nombre="INDONESIA">
+      <Distrito Id="1" Nombre="YAKARTA" />
+    </Canton>
+    <Canton Id="47" Nombre="AZERBAIYAN">
+      <Distrito Id="1" Nombre="BAKU" />
+    </Canton>
+    <Canton Id="48" Nombre="KENIA">
+      <Distrito Id="1" Nombre="NAIROBI" />
+    </Canton>
+  </Provincia>
+</Pais>
