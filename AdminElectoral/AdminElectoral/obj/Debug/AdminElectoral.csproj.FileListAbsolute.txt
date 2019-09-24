@@ -8,3 +8,5 @@ C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\Admin
 C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.csproj.CoreCompileInputs.cache
 C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.exe
 C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.pdb
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\j_dan\OneDrive\Escritorio\AdminElectoral\AdminElectoral\obj\Debug\AdminElectoral.csproj.CopyComplete
